@@ -5,7 +5,7 @@
 ## 4.1 General League Notes
 
 - **4.1.1**&emsp;The concept of CSC is drawn from professional sports. CSC is composed of a series of tiers and franchises. Each franchise has no more than one team in each tier.
-- **4.1.2**&emsp;From highest to lowest, our tiers are Premier, Elite, Challenger, Contender, and Prospect. When the rules mention promotion, this refers to players moving from lower tiers to higher ones. When the rules mention demotion, this refers to players moving from higher tiers to lower tiers.
+- **4.1.2**&emsp;From highest to lowest, our tiers are Premier, Elite, Challenger, Contender, Prospect, and Recruit. When the rules mention promotion, this refers to players moving from lower tiers to higher ones. When the rules mention demotion, this refers to players moving from higher tiers to lower tiers.
 - **4.1.3**&emsp;Each franchise has at most one team per tier. Teams do not move between tiers, but players may move between teams in different tiers.
 
 &emsp;
