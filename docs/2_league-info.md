@@ -35,7 +35,7 @@
 
 &emsp;
 
-## 2.4 CS:GO Bans
+## 2.4 Account Bans
 
 - **2.4.1**&emsp;Players with banned accounts must disclose them to CSC during signups. Some banned accounts may cause the player to be ineligible to play.
 
@@ -59,7 +59,7 @@
 
 ## 2.5 Alternate Accounts
 
-- **2.5.1**&emsp;Players may declare alternate faceit and steam accounts in the signup form when joining the league, or by sending a message to an Admin at any time.
+- **2.5.1**&emsp;Players must declare alternate faceit and steam accounts in the signup form when joining the league, or by sending a message to an Admin at any time.
 
     - **2.5.1.1**&emsp;Alternate accounts are collected to ensure everyone is given a fair MMR value in the league.
 
