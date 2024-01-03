@@ -6,7 +6,7 @@ This is a WIP - info not binding.
 #### Abbreviations and Acronyms
 
 - AGM - Assistant General Manager
-- CS:GO - Counter Strike: Global Offensive
+- CS - Counter-Strike
 - CSC - Counter Strike Confederation
 - DM - Direct Message
 - ET - US Eastern Time
@@ -42,7 +42,7 @@ This is a WIP - info not binding.
 - **Season** - Organizationally, CSC Seasons run from preseason Combines through the postseason. The actual calendar length of each Season is subject to change.
 - **Staff** - Includes Admins, GMs, AGMs, and anyone in a committee position.
 - **Team** - A Team is one Roster from a Franchise.
-- **Tier** - CSC is broken down into Tiers of play based on predicted skill level. Each season the number of Tiers and number of players in each Tier is adjusted as needed to attempt to create a balanced, competitive environment within the Tier. The current tiers are Premier, Elite, Challenger, Contender, and Prospect.
+- **Tier** - CSC is broken down into Tiers of play based on predicted skill level. Each season the number of Tiers and number of players in each Tier is adjusted as needed to attempt to create a balanced, competitive environment within the Tier. The current tiers are Premier, Elite, Challenger, Contender, Prospect, and Recruit.
 - **Waivers** - Certain transactions cause a player to be placed on Waivers. While on Waivers, Teams have the chance to claim the player’s contract based on an order determined differently at different points in the Season.
 
 ---
