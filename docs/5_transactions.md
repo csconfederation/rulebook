@@ -174,15 +174,15 @@
 
 - **5.7.1**&emsp;Free Agents have the option of which franchise to join if multiple Franchises make offers. They can also choose to decline all offers and remain a Free Agent. Free Agents cannot exercise this choice for Waiver claims. See [Section 5.2](5_transactions.md#52-waivers) for Waiver rules.
 
-- **5.7.2**&emsp;GMs and Free Agents may sign Free Agent Temporary Contracts for one match day. This is a substitution, as outlined in [Section 5.4](5_transactions.md#54-substitutions). The Free Agent’s contract MMR replaces the absent player’s contract MMR.
+- **5.7.2**&emsp;GMs and Free Agents may sign Temporary Contracts for one match day or for all games played on a calendar day by a team. This is a substitution, as outlined in [Section 5.4](5_transactions.md#54-substitutions). The Free Agent’s contract MMR replaces the absent player’s contract MMR.
 
     - **5.7.2.1**&emsp;The Free Agent has the option to choose which team to substitute for if multiple teams make offers, and they can choose to decline a temporary contract with no consequences.
 
     - **5.7.2.2**&emsp;When using Temporary Substitutions, GM's may use any substitute player which keeps them under their teams cap. Under no circumstance may a GM exceed their team's cap.
 
-    - **5.7.2.3**&emsp;The replaced player cannot play on that team that match day.
+    - **5.7.2.3**&emsp;The replaced player must not play in at least one map that match day
 
-    - **5.7.2.4**&emsp;This temp contract requires the GM to play the Free Agent that match day.
+    - **5.7.2.4**&emsp;This temp contract requires the GM to play the Free Agent for at least one map if able to that match day.
 
     - **5.7.2.5**&emsp;Free Agents must be signed 30 minutes before match start time.
 

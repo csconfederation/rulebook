@@ -33,6 +33,20 @@
 
 - **2.3.4**&emsp;If a player is usually unavailable at the regular match time, they should not sign up for the league as a player. While it is unreasonable to expect players to never miss a scheduled time, every player should ensure they are likely to be available for most of them before signing up. Be aware that most GMs expect players to be available in advance of 10 PM ET in order to warm-up with their teams. Players should make any absence in the schedule clear to your GM.
 
+- **2.3.5**&emsp;When signing up, players will choose a name which will be used in the CSC Discord as well as in-game on CSC servers. The name must fit the following requirements:
+
+- **2.3.5.1**&emsp;No two active CSC players and/or staff members can have the same exact name. This is case-insensitive, meaning that "John" and "john" would be considered the same name.
+
+- **2.3.5.1.1**&emsp;Players and staff members from a given season will be considered active for name reservation purposes until the draft of the next season.
+
+- **2.3.5.2**&emsp;Names may contain between 2 and 18 characters, inclusive.
+
+- **2.3.5.3**&emsp;Names may contain upper and lowercase English letters, Arabic numerals, spaces, and the following punctuation symbols: ._-!?:^+
+
+- **2.3.5.4**&emsp;Names must be appropriate for CSC and may be denied if they contain slurs, NSFW language, or other content that does not comply with the Behavior Guidelines. Admins and mods may require players to change their name if it does not follow the Behavior Guidelines.
+
+- **2.3.5.5**&emsp;Players may change their name once per season. For this purpose, a season is considered to start at the beginning of the preceding offseason.
+
 &emsp;
 
 ## 2.4 CS:GO Bans

@@ -21,7 +21,7 @@ Admins, General Managers (GMs), and staff members can also be players. While in 
 
 - **1.1.3**&emsp;Sign up for CSC through the indicated signup form before the close of the signup period each season. Be sure to fully and honestly fill out the form, or you may be rejected without warning.
 
-- **1.1.4**&emsp;To enter the league as a rookie or PermFA, your highest ranked account reported must have, at minimum, 20 matches played on Faceit. Rookies will have roughly a week after sign ups end to complete their 20 games in order to be a part of the draft. Players that do not reach this deadline but get all 20 games before pre-season game 3 (midnight ET) will be put into the FA pool.
+- **1.1.4**&emsp;To be eligible to play or be drafted after signing up, you must satisfy requirements defined by the Numbers Committee (https://docs.google.com/document/d/1wiUcU2In79k8purXN-j5XszGrWIuEFOJODfQj51JbM4/) which are put out each season and may include a combination of minimum FACEIT games, minimum combines games, and other possible requirements. These may vary based on your status in the league, your recent data, etc. There will be a published deadline by which you need to complete these requirements or be ineligible to play and/or go through the draft.
 
 - **1.1.5**&emsp;These requirements are ongoing; if you are discovered to have violated one of them, you may be removed from the league
 
