@@ -64,9 +64,9 @@
 
 - **8.1.1**&emsp;Preseason lasts from the season’s draft until the official Roster Lock date. In this time, there will be 2 cut days.
 
-    - **8.1.1.1**&emsp;The first cut time is the day after the second pre-season match at 11:59am ET. Teams must be at a maximum of 6 rostered players.
+    - **8.1.1.1**&emsp;The first cut time is the day after the second-to-last preseason match day at 11:59am ET. Teams must be at a maximum of 6 rostered players.
 
-    - **8.1.1.2**&emsp;The second cut day is the day after the third pre-season match at 11:59am ET. Teams must be at a maximum of 5 rostered players.
+    - **8.1.1.2**&emsp;The second cut time is the day after the last preseason match day at 11:59am ET. Teams must be at a maximum of 5 rostered players.
 
 - **8.1.2**&emsp;A player who was drafted must play in a preseason match (a scrim doesn't count) before being cut in the preseason. A player who is unresponsive, unwilling, or unavailable at game time is excluded from this requirement. Evidence of this should be shown in a GM’s transaction channel.
 
