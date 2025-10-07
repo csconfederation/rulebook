@@ -52,7 +52,11 @@
 
 ### 7.3 Draft Lottery Odds
 
-- **7.3.1**&emsp;The regular season win-rate will be calculated from 0 to 1 and will be multiplied by .75 (this term is called wr). Each team will get a point for each stage of playoffs reached (0 for not reaching playoffs, 1 for losing in first stage of playoffs, 2 for losing in the second stage, etc. n-1 for losing in the finals, n for winning the finals). If all teams in a tier reach playoffs then each of the previous values will be decreased by one as to not penalize tiers where all teams reach playoffs. This value will be divided by n and multiplied by .25 (this term is called pp). Each team’s draft odds will then be [2 - wr - pp]. n is the number of rounds in the playoffs.
+- **7.3.1**&emsp;A team's draft lottery odds will be calculated as 2 - WR - PP, with WR and PP defined below:
+
+    - **7.3.1.1**&emsp;WR is determined by calculating the team's regular season win rate (scaled from 0 to 1) and multiplying it by 0.75.
+ 
+    - **7.3.1.2**&emsp;PP is determined as follows: Teams will get a point for each round of playoffs reached (0 for not reaching playoffs, 1 for losing in first round of playoffs, 2 for losing in the second round, up to N for losing in the finals and N+1 for winning the finals, where N is the number of playoff rounds). If the tier has a play-in stage, it counts as the first round of playoffs. If all teams in a tier reach playoffs, subtract one point from each team's total. PP = points earned / (maximum possible points) * 0.25.
 
 - **7.3.2**&emsp;In special cases, such as a lot of teams being added or very few players returning, draft odds can be set to equal for all teams, at the discretion of Admins.
 
@@ -153,3 +157,4 @@
     - **10.3.1.2**&emsp;Transactions are closed until a future date, decided by the admins, between the start of combines and the next preseason. However for the duration of combines there will be an "Early" Transaction Window, GMs may cut and re-sign their players from the previous season outside of the normal transactions window.
 
 ---
+
