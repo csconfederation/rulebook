@@ -26,7 +26,7 @@
   
   - **7.1.6.1**&emsp;Each team is limited to a maximum of 3 keeper picks in the draft. For these purposes, a keeper pick is any player that occupies a keeper slot in the draft board; players retained from the previous season as well as those promoted, demoted, or picked up as Free Agents during the offseason transaction period are included. Teams must be in compliance with this limit by no later than 48 hours before the end of offseason transactions.
       
-  - **7.1.6.2**&emsp;Keeper picks can only be in the first five rounds of the draft.
+  - **7.1.6.2**&emsp;Keepers must be picked prior to the 6th round or prior to the last full round of the draft, whichever is later.
     
   - **7.1.6.3**&emsp;If a GM has more keepers in a designated round than available picks, they must select those players in earlier rounds. If this process exhausts the GM's picks and they cannot retain all their keepers, they must release players until they have sufficient picks. A lower pick cannot be used to retain a keeper assigned to a higher round.
     
@@ -153,3 +153,4 @@
     - **10.3.1.2**&emsp;Transactions are closed until a future date, decided by the admins, between the start of combines and the next preseason. However for the duration of combines there will be an "Early" Transaction Window, GMs may cut and re-sign their players from the previous season outside of the normal transactions window.
 
 ---
+
