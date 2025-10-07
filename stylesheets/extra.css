@@ -1,0 +1,68 @@
+:root {
+    --md-primary-fg-color: #1971c2;
+    --md-accent-fg-color: #1971c2;
+}
+
+[data-md-color-scheme="default"] {
+    --md-default-fg-color--light: black;
+  }
+
+[data-md-color-scheme="default"] .md-icon {
+  color: #1a1b1e;
+}
+
+[data-md-color-scheme="default"] .md-search__form {
+  background-color: #dbdbdb;
+}
+
+[data-md-color-scheme="default"] .md-search__input::placeholder {
+    color: #1a1b1e;
+}
+
+[data-md-color-scheme="slate"] {
+    --md-default-bg-color: #1a1b1e;
+    --md-typeset-color: #c1c2c5;
+    --md-default-fg-color--light: #c1c2c5;
+  }
+
+body {
+  padding-right: 10px;
+}
+
+.embedded .md-grid {
+  margin-left: 10px;
+}
+
+.md-header {
+  background-color: transparent;
+  box-shadow: none;
+  margin-top: 15px;
+}
+
+.md-logo {
+  display: none !important;
+}
+
+.md-header__title {
+  height: 0px;
+  color: transparent;
+}
+
+.md-main {
+  margin-top: -95px;
+}
+
+.md-footer {
+  display: none;
+}
+
+.md-sidebar--primary {
+  top: -15px !important;
+  z-index: 10;
+}
+ 
+@media screen and (max-width: 76.1875em) {
+  .md-main {
+    padding-left: 35px;
+  }
+}
