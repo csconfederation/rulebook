@@ -90,20 +90,6 @@
 
     - **4.3.10.2**&emsp;If either party chooses not to renew the contract by the transaction deadline that player will become a free agent.
 
-- **4.3.11**&emsp;Any free agent signing or contract renewal requires proof of agreement to be posted in the GM's transaction channel.
-
-- **4.3.12**&emsp;A GM and a player may agree to put a player on Inactive Reserve (IR) at any point in a season if that player needs to take an extended break. This allows a 6th player to join the roster temporarily.
-
-    - **4.3.12.1**&emsp;A player on IR is not allowed to play in official matches.
-    
-    - **4.3.12.2**&emsp;Players must remain on IR for a minimum of 4 consecutive match days or until the end of the current season, whichever occurs first. If the player was subbed out for any match days directly prior to going on IR, those match days will count towards the minimum duration.
-
-    - **4.3.12.3**&emsp;The MMR of a player on IR will not count towards a team's total MMR, but the MMR of a replacement player will. See [section 4.5](4_league-processes.md#45-mmr).
-
-    - **4.3.12.4**&emsp;A player on IR may only be cut, moved to PFA, or brought back to the active roster; they may not be traded, promoted, or demoted.
-
-    - **4.3.12.5**&emsp;When a player on IR requests to return to the active roster and is eligible to do so, their GM must remove them from IR before 2 match days pass or cut them.
-
 &emsp;
 
 ## 4.4 Franchises, Teams, And Rosters
@@ -132,3 +118,4 @@
 
 
 ---
+
