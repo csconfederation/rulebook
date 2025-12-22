@@ -18,7 +18,7 @@
     - [Assign AGM](5_transactions.md#514-assign-agm)
     - [Reschedule](5_transactions.md#515-reschedule)
 
-- **5.1.2**&emsp;Early Transaction Period (ETP): The ETP will begin during the offseason, usually near the beginning of combines, and last until the Standard Transaction Period begins. Admins, Numbers Committee, and Transaction Managers will determine the exact dates. During the ETP, franchises may only Re-sign and Cut players on their franchise. Per 4.2.2.1.1, Non-playing AGMs may also be signed to the franchise as a player during this period.
+- **5.1.2**&emsp;Early Transaction Period (ETP): The ETP will begin during the offseason, usually near the beginning of combines, and last until the Standard Transaction Period begins. Admins, Numbers Committee, and Transaction Managers will determine the exact dates. During the ETP, franchises may only Re-sign and Cut players on their franchise. Per [4.2.3.3](4_league-processes.md#42-general-manager-rules), Non-playing AGMs may also be signed to the franchise as a player during this period.
 
 - **5.1.3**&emsp;Standard Transaction Period (STP): The STP occurs between the Draft Lottery and the Draft. Admins, Numbers Committee, and Transaction Managers will determine the exact dates. During the STP, franchises may Sign, Re-sign, Cut, Promote, and Trade players. Trades can also be made involving current season and next season draft picks.
 
@@ -108,11 +108,11 @@
 
 - **5.6.2**&emsp;[Player consent](5_transactions.md#53-proof-of-player-consent) is not required for this transaction
 
-    - **5.6.2.1**&emsp;In preseason, proof of the player playing in a match should be provided. See rule [8.1.2](7_season-overview.md#preseason).
+    - **5.6.2.1**&emsp;In preseason, proof of the player playing in a match should be provided. See [rule 8.1.2](7_season-overview.md#preseason).
 
 - **5.6.3**&emsp;At least two match days (including Preseason) must have passed since the player was signed or re-signed to the franchise.
 	
-    - **5.6.3.1**&emsp;See section [4.3](4_league-processes.md#43-player-contracts) for additional rules on player protections.
+    - **5.6.3.1**&emsp;See [section 4.3](4_league-processes.md#43-player-contracts) for additional rules on player protections.
 
 - **5.6.4**&emsp;Cut players typically become Free Agents, with some exceptions:
 
@@ -124,9 +124,9 @@
 
     - **5.6.4.2**&emsp;Post draft, a player who requests to get cut because of an inability to play becomes a PFA.
 
-    - **5.6.4.3**&emsp;Players who refuse to play for their team may be cut and converted to PFA status as detailed in rule [4.3.6.1](4_league-processes.md#43-player-contracts).
+    - **5.6.4.3**&emsp;Players who refuse to play for their team may be cut and converted to PFA status as detailed in [rule 4.3.6.1](4_league-processes.md#43-player-contracts).
 
-- **5.6.5**&emsp;Players that are Cut may be placed on waivers (See section [5.12](5_transactions.md#51-general-transactions) for more details on Waivers):
+- **5.6.5**&emsp;Players that are Cut may be placed on waivers (See [section 5.12](5_transactions.md#51-general-transactions) for more details on Waivers):
 
     - **5.6.5.1**&emsp;Before Roster Lock in Preseason, Cut players will be put on waivers if they went through the draft as a signed player (not DE or FA). 
 
@@ -164,7 +164,7 @@
 
 - **5.8.6**&emsp;During Playoffs, the following rules apply to Temporary Promotions:
 
-    - **5.8.6.1**&emsp;The Temporary Substitution Playoff rules in Rule [10.2.1](7_season-overview.md#playoffs-and-beyond) apply. 
+    - **5.8.6.1**&emsp;The Temporary Substitution Playoff rules in [Rule 10.2.1](7_season-overview.md#playoffs-and-beyond) apply. 
 
     - **5.8.6.2**&emsp;A player may only be Temporarily Promoted one match day during playoffs. If they have already been Temporarily Promoted twice during the Regular Season, they are ineligible for Temporary Promotion in Playoffs.
 
@@ -254,7 +254,7 @@
 
         - **5.11.5.2.2**&emsp;All franchises must maintain at least one future draft pick in the first two rounds of each tier.
 
-        - **5.11.5.2.3**&emsp;All franchises must maintain at least three future draft pick in the first five rounds of each tier.
+        - **5.11.5.2.3**&emsp;All franchises must maintain at least three future draft picks in the first five rounds of each tier.
 
 - **5.11.6**&emsp;If there is a reasonable doubt, accompanied with evidence, that the GM of a franchise or the franchise itself will not return in the following season, then admins may hold a vote to remove the ability for that franchise to make trades for the duration of the season, and also reverse any trades by that franchise during the week prior to the start of the vote.
 
@@ -271,7 +271,7 @@
 
 ## 5.12 Waivers and Waiver Claims
 
-- **5.12.1**&emsp;During the Regular Season, and sometimes during the Preseason (see rule [5.6.5.1](5_transactions.md#56-cut)), Cut players will be placed on waivers. While on Waivers, the player cannot Sign with a team, but they can still be a Temporary Substitute. Teams can submit a Waiver Claim for the player, where the highest priority team (see [5.12.4.2](5_transactions.md#512-waivers-and-waiver-claims)) will win the Waiver Claim and add the player to their roster. If the player clears Waivers without being claimed by any team, they will have no restrictions and be able to Sign with any team if they choose.
+- **5.12.1**&emsp;During the Regular Season, and sometimes during the Preseason (see [rule 5.6.5.1](5_transactions.md#56-cut)), Cut players will be placed on waivers. While on Waivers, the player cannot Sign with a team, but they can still be a Temporary Substitute. Teams can submit a Waiver Claim for the player, where the highest priority team (see [5.12.4.2](5_transactions.md#512-waivers-and-waiver-claims)) will win the Waiver Claim and add the player to their roster. If the player clears Waivers without being claimed by any team, they will have no restrictions and be able to Sign with any team if they choose.
 
 - **5.12.2**&emsp;Waiver Claims do not require player consent, although it is strongly recommended the GM or an AGM discusses a potential waiver claim beforehand with the player.
 
@@ -320,13 +320,13 @@
 
 - **5.14.2**&emsp;The AGM's email should be submitted as a part of this transaction, so they can be given access to their transaction spreadsheet.
 
-- **5.14.3**&emsp;The full rules surrounding AGM assignment are listed in section 4.2 of the rulebook.
+- **5.14.3**&emsp;The full rules surrounding AGM assignment are listed in [section 4.2](4_league-processes.md#42-general-manager-rules) of the rulebook.
 
 &emsp;
 
 ## 5.15 Reschedule
 
-- **5.15.1**&emsp;If both teams agree, a match can be rescheduled to a different time and/or date. Matches may also be rescheduled at the request of one team in the case of significant delays due to technical issues. See rule [9.1.2](7_season-overview.md#regular-season) for the full rules for reschedules.
+- **5.15.1**&emsp;If both teams agree, a match can be rescheduled to a different time and/or date. Matches may also be rescheduled at the request of one team in the case of significant delays due to technical issues. See [rule 9.1.2](7_season-overview.md#regular-season) for the full rules for reschedules.
 
 - **5.15.2**&emsp;A screenshot showing the agreement between the GM/AGM/Captain of each team to the new match time and date must be submitted.
 

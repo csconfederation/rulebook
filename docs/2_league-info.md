@@ -4,7 +4,7 @@
 
 ## 2.1 Discord
 
-- **2.1.1**&emsp;The league will make use of Discord (https://discordapp.com/) as its primary platform for communication and organization. All official announcements will occur in the league’s Discord server.
+- **2.1.1**&emsp;The league will make use of Discord (https://discord.com/) as its primary platform for communication and organization. All official announcements will occur in the league’s Discord server.
 
 - **2.1.2**&emsp;All communication is expected to occur through Discord, using either the league’s server, your franchise’s server, or direct messages.
 
@@ -44,7 +44,7 @@
 
     - **2.3.5.2**&emsp;Names may contain between 2 and 18 characters, inclusive.
 
-    - **2.3.5.3**&emsp;Names may contain upper and lowercase English letters, Arabic numerals, spaces, and the following punctuation symbols: `._-!?:^+`
+    - **2.3.5.3**&emsp;Names may contain upper and lowercase English letters, numbers, spaces, and the following punctuation symbols: `._-!?:^+`
  
         - **2.3.5.3.1**&emsp;Names may not consist only of numbers.
 
@@ -54,13 +54,13 @@
 
 &emsp;
 
-## 2.4 CS:GO Bans
+## 2.4 CS2 Bans
 
 - **2.4.1**&emsp;Players with banned accounts must disclose them to CSC during signups. Some banned accounts may cause the player to be ineligible to play.
 
 - **2.4.2**&emsp;Players actively or formerly banned by Valve, FACEIT, or ESEA may be eligible to play in CSC, subject to Admin discretion, if the account in question falls under these categories:
 
-    - **2.4.2.1**&emsp;It is a Valve, Faceit, or ESEA account that was banned over three years ago.
+    - **2.4.2.1**&emsp;It is a Valve, FACEIT, or ESEA account that was banned over three years ago.
 
     - **2.4.2.2**&emsp;It is a banned account that was successfully appealed (proof of the successful appeal is required).
 
@@ -78,7 +78,7 @@
 
 ## 2.5 Alternate Accounts
 
-- **2.5.1**&emsp;Players may declare alternate faceit and steam accounts in the signup form when joining the league, or by sending a message to an Admin at any time.
+- **2.5.1**&emsp;Players may declare alternate FACEIT and Steam accounts in the signup form when joining the league, or by sending a message to an Admin at any time.
 
     - **2.5.1.1**&emsp;Alternate accounts are collected to ensure everyone is given a fair MMR value in the league.
 
@@ -104,15 +104,15 @@
 
             - **2.6.2.1.1.3**&emsp;The backer pool will write a short rationale to send to any rejected applicants. Members of the backer pool may also discuss their own judgement with any rejected applicants, but may not discuss any specific sensitive info/incidents or the opinions/experiences of other pool members.
 
-        - **2.6.2.1.2**&emsp;You must have participated in at least one season of CSC
+        - **2.6.2.1.2**&emsp;You must have participated in at least one season of CSC.
 
         - **2.6.2.1.3**&emsp;You may not currently have any serious strikes or more than two normal strikes.
 
-        - **2.6.2.1.4**&emsp;You must not have been removed (or resigned to avoid removal) as admin in the past three seasons
+        - **2.6.2.1.4**&emsp;You must not have been removed (or resigned to avoid removal) as admin in the past three seasons.
      
         - **2.6.2.1.5**&emsp;Admin candidates that pass the Backer Pool will have their strike counts for each strike category published by the mod committee.
     
-    - **2.6.2.2**&emsp;Only CSC members who participated in the previous season as a player or staff member are eligible to vote in the admin election.
+    - **2.6.2.2**&emsp;Only CSC members who participated in the previous season as a player or Staff member are eligible to vote in the admin election.
 
     - **2.6.2.3**&emsp;If there is suspected abuse, severe inactivity to the detriment of the league, or misuse of power or authority by an Admin, then an investigation for possible removal shall be made.
 
@@ -163,7 +163,8 @@
  
     - **2.6.7.3**&emsp;In the event of a Staff member removal, voluntary or otherwise, the following procedures will be used depending on the position:
         - If an Admin spot is vacant during the first half of the season, the next-highest voted candidate from the previous election will take the spot. In the second half of the season, no replacement shall occur for a single Admin.
-        - If there are less than 4 active Admins, the remaining Admins shall run a full Admin election for replacing the inactive or empty spots.If a Committee Head position is vacant, Admins shall run an immediate election for replacement. In the event the Admins deem the committee makeup to be a significant issue that prevents an election, the replacement Committee Head shall be chosen by Admins for the remainder of the term.
+        - If there are less than 4 active Admins, the remaining Admins shall run a full Admin election for replacing the inactive or empty spots.
+        - If a Committee Head position is vacant, Admins shall run an immediate election for replacement. In the event the Admins deem the committee makeup to be a significant issue that prevents an election, the replacement Committee Head shall be chosen by Admins for the remainder of the term.
         - If an Arbiter spot is vacant, the next-highest voted candidate from the previous election will take the spot.
         - If a Player Rules Committee Representative position is vacant, the vacant position shall be replaced in the next election.
         - If a GM Rules Committee Representative position is vacant, Admins shall hold an election for a replacement representative for the remainder of the season.

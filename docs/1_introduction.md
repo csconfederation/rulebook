@@ -18,9 +18,9 @@ As of right now there are six skill tiers within the league: Premier, Elite, Cha
 
 - **1.1.3**&emsp;Sign up for CSC through the indicated signup form before the close of the signup period each season. Be sure to fully and honestly fill out the form, or you may be rejected without warning.
 
-- **1.1.4**&emsp;To be eligible to play or be drafted after signing up, you must satisfy [requirements defined by the Numbers Committee](https://docs.google.com/document/d/1wiUcU2In79k8purXN-j5XszGrWIuEFOJODfQj51JbM4/) which are put out each season and may include a combination of minimum FACEIT games, minimum combines games, and other possible requirements. These may vary based on your status in the league, your recent data, etc. There will be a published deadline by which you need to complete these requirements or be ineligible to play and/or go through the draft.
+- **1.1.4**&emsp;To be eligible to play or be drafted after signing up, you must satisfy [requirements defined by the Numbers Committee](https://docs.google.com/document/d/1wiUcU2In79k8purXN-j5XszGrWIuEFOJODfQj51JbM4/). These requirements are put out each season and include a combination of minimum FACEIT games played, minimum combine games played, and minimum total games played. These requirements are subject to the discretion of the Numbers Committee and may vary based on your status in the league or other extenuating circumstances. There will be a published deadline by which you need to complete these requirements or be ineligible to play and/or go through the draft.
 
-- **1.1.5**&emsp;These requirements are ongoing; if you are discovered to have violated one of them, you may be removed from the league
+- **1.1.5**&emsp;These requirements are perpetual and ongoing. If you are discovered to have violated one of them, you may be removed from the league.
 
 &emsp;
 
@@ -28,7 +28,7 @@ As of right now there are six skill tiers within the league: Premier, Elite, Cha
 
 - **1.2.1**&emsp;A person who plays in the league is referred to in these rules as a player.
 - **1.2.2**&emsp;A tier is a group of teams who play against each other during the season.
-- **1.2.2.1**&emsp;Currently, there are six tiers: Recruit, Prospect, Contender, Challenger, Elite, and Premier.
+    - **1.2.2.1**&emsp;Currently, there are six tiers: Recruit, Prospect, Contender, Challenger, Elite, and Premier.
 - **1.2.3**&emsp;A team is a group of five (5) players within a single tier.
 - **1.2.4**&emsp;A franchise is a group of teams led by a General Manager (GM) and up to two Assistant General Managers (AGMs).
 - **1.2.5**&emsp;A Free Agent (FA) is someone who can substitute on a team or sign with a team.
@@ -41,7 +41,7 @@ As of right now there are six skill tiers within the league: Premier, Elite, Cha
 
 ## 1.3 Important Dates and Times
 
-- **1.3.1**&emsp;Dates for the next season will be posted in the discord in #notices soon after the end of the past season.
+- **1.3.1**&emsp;Dates for the next season will be posted in the Discord in #notices soon after the end of the past season.
 - **1.3.2**&emsp;Combines begin at 9pm ET on the dates indicated in the league’s calendar.
 - **1.3.3**&emsp;For every tier except Premier, regular season matches are best of 1 and start at 10pm ET on Tuesdays and Thursdays, with a scrim at 9pm ET. Playoff matches are best of 3 and start at 9pm ET on Tuesdays and Thursdays.
 - **1.3.4**&emsp;For Premier, a double header is played starting at 9pm ET on Mondays. Playoff matches are best of 3 and start at 9pm ET on Mondays.
