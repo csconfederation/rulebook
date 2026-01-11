@@ -8,7 +8,7 @@
 
 - **6.1.2**&emsp;League matches will be played on the most up-to-date patch for all game settings including any and all weapon buffs and nerfs, even if the patch takes place mid-season. This does not include an updated map pool.
 
-- **6.1.3**&emsp;League matches will only be played on maps from the current Valve active duty map pool at the start of a given season, defined as the moment the draft concludes. The current maps are listed below for reference and are changed when needed without requiring a formal RC vote. As of Season 16 these maps are:
+- **6.1.3**&emsp;League matches will only be played on maps from the current Valve active duty map pool at the start of a given season, defined as the moment the draft concludes. The current maps are listed below for reference and are changed when needed without requiring a formal RC vote. As of Season 19 these maps are:
 
     - Anubis
 
@@ -18,7 +18,7 @@
 
     - Nuke
 
-    - Train
+    - Overpass
 
     - Inferno
 
@@ -145,4 +145,5 @@
     - **6.6.1.1**&emsp;A player that leaves the game to equip a non-default agent skin after having default skins may be subject to punishment regardless of any attempts to correct the issue.
 
 ---
+
 
