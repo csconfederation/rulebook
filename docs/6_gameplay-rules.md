@@ -8,21 +8,21 @@
 
 - **6.1.2**&emsp;League matches will be played on the most up-to-date patch for all game settings including any and all weapon buffs and nerfs, even if the patch takes place mid-season. This does not include an updated map pool.
 
-- **6.1.3**&emsp;League matches will only be played on maps from the current Valve active duty map pool at the start of a given season, defined as the moment the draft concludes. The current maps are listed below for reference and are changed when needed without requiring a formal RC vote. As of Season 16 these maps are:
+- **6.1.3**&emsp;The CSC map pool for a given season will match the Counter-Strike 2 Active Duty Map Pool from the start of the season, which is defined as the moment the draft concludes. If an Active Duty Map Pool change is announced by Valve before the draft, but not yet implemented, the CSC map pool will immediately change to match the upcoming Active Duty Map Pool. The current maps in the CSC map pool are listed below for reference and will be changed when needed without requiring a formal RC vote. As of Season 19, the map pool is:
+
+    - Ancient
 
     - Anubis
 
-    - Mirage
-
     - Dust II
-
-    - Nuke
-
-    - Train
 
     - Inferno
 
-    - Ancient
+    - Mirage
+
+    - Nuke
+
+    - Overpass
 
 - **6.1.4**&emsp;If the competitive map pool changes during a CSC season, our pool will remain as is until the following season.
 
@@ -145,4 +145,5 @@
     - **6.6.1.1**&emsp;A player that leaves the game to equip a non-default agent skin after having default skins may be subject to punishment regardless of any attempts to correct the issue.
 
 ---
+
 
