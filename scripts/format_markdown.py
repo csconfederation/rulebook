@@ -102,17 +102,14 @@ def normalize_bullets(lines: list[str]) -> list[str]:
             kind = "numbered"
         elif current_indent == 0 and not bullet_gap and previous_formatted_indent is not None:
             kind = "plain"
-            if previous_kind == "numbered":
-                indent = previous_formatted_indent + 4
-            elif previous_formatted_indent == 0 and not previous_text.rstrip().endswith((".", "!", "?")):
-                indent = 4
-            elif previous_formatted_indent > 0:
-                if previous_kind == "plain" and not previous_text.rstrip().endswith(":"):
-                    indent = previous_formatted_indent
-                else:
-                    indent = previous_formatted_indent + 4
+            if previous_formatted_indent == 0:
+                # Only recover flattened children when the prior bullet clearly
+                # introduces a nested list.
+                indent = 4 if previous_text.rstrip().endswith(":") else 0
+            elif previous_kind == "plain" and not previous_text.rstrip().endswith(":"):
+                indent = previous_formatted_indent
             else:
-                indent = 0
+                indent = previous_formatted_indent + 4
         elif current_indent == 0:
             indent = 0
             kind = "plain"
