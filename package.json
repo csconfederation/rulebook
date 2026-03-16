@@ -1,0 +1,22 @@
+{
+  "name": "csc-rulebook",
+  "private": true,
+  "packageManager": "npm@9.2.0",
+  "scripts": {
+    "format:md": "python3 scripts/format_markdown.py",
+    "lint:md": "markdownlint-cli2 \"*.md\" \"docs/**/*.md\"",
+    "lint:md:fix": "python3 scripts/format_markdown.py && markdownlint-cli2 --fix \"*.md\" \"docs/**/*.md\"",
+    "prepare": "husky"
+  },
+  "lint-staged": {
+    "*.md": [
+      "python3 scripts/format_markdown.py",
+      "markdownlint-cli2 --fix"
+    ]
+  },
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^16.4.0",
+    "markdownlint-cli2": "^0.21.0"
+  }
+}

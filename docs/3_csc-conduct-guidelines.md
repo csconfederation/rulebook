@@ -59,7 +59,7 @@
     - **3.4.1.1**&emsp;Use of the following are not to be considered cheating for the purposes of these rules: VibranceGUI, game font changes, game config changes (.cfg files), simple radar, timer resolution, intelligent standby list cleaner.
 
         - **3.4.1.1.1**&emsp;If you have something not on this list and wish to continue using it, please contact an admin for approval.
-     
+
     - **3.4.1.2**&emsp;Players should not visit, watch, or participate in any streams or stream chats involving their game where the video and POV may show information not accessible to your team while the match is ongoing.
 
 - **3.4.2**&emsp;Accusations of cheating must be made either through the ticket system in #roles-and-tickets, or through a DM with an admin. Cheating accusations are not to be made in public channels, and may lead to a punishment for the offender.
@@ -75,7 +75,7 @@
     - **3.4.3.2**&emsp;The committee will individually review one or more demo files of the accused's gameplay as they see fit until a conclusion is reached.
 
     - **3.4.3.3**&emsp;Upon completion of the demo review, a unanimous minus one vote is required to remove the player from the league
- 
+
 - **3.4.4**&emsp;The use of any methods intended to bypass Valve's default SOCD behavior (such as Snap Tap) is banned in all league matches. If a player is discovered to have used such methods any matches in which they were used will be considered a forfeit win for the opposing team and the player issued a formal warning. Any subsequent infraction will result in a ban of one match day for each match in which they were used and the match being a forfeit win for the opponent. Recurring usage may result in season or permanent bans at admin discretion.
 
 &emsp;
@@ -91,7 +91,7 @@
     - **3.5.2.1**&emsp;Each prior staff ban (not successfully appealed) will increase this length by a season.
 
     - **3.5.2.2**&emsp;A member that has served a staff ban (that has not been successfully appealed or forgiven) is permanently ineligible from positions with elevated authority or access to privileged information, listed below
-        
+
         - Admin
         - Mod
         - Arbiter
@@ -116,4 +116,3 @@
     - **3.5.4.2**&emsp;If successful, the member may again seek any CSC position.
 
 ---
-

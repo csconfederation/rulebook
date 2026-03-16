@@ -29,12 +29,12 @@
 - **6.1.5**&emsp;Games will be played with the following server settings:
 
     - **6.1.5.1**&emsp;MR12 (i.e., 12 rounds per half, best of 24)
-           - Round time: 1 minute 55 seconds
-           - Bomb timer: 40 seconds
-           - Freeze time: 20 seconds
-           - Buy time: 20 seconds
-           - Round restart delay: 7 seconds
-           - Halftime: 30 seconds
+        - Round time: 1 minute 55 seconds
+        - Bomb timer: 40 seconds
+        - Freeze time: 20 seconds
+        - Buy time: 20 seconds
+        - Round restart delay: 7 seconds
+        - Halftime: 30 seconds
 
     - **6.1.5.2**&emsp;Friendly Fire Enabled
 
@@ -51,7 +51,7 @@
     - **6.1.7.1**&emsp;With the exception of (A)GMs who must be muted, a person may not be in both match team comms and spectating the active match at the same time. A spectator or coach may not communicate to players during the match unless to help with troubleshooting technical issues.
 
     - **6.1.7.2**&emsp;Evidence of a person, who is not actively playing in the match, coaching or providing any kind of competitive assistance during the game may result in a retroactive game forfeit.
- 
+
     - **6.1.7.3**&emsp;Franchises must make the voice chat a team plays in during matches visible to opposing (A)GMs as well as admins for the sake of visibility and enforcement.
 
 &emsp;
@@ -145,5 +145,3 @@
     - **6.6.1.1**&emsp;A player that leaves the game to equip a non-default agent skin after having default skins may be subject to punishment regardless of any attempts to correct the issue.
 
 ---
-
-
