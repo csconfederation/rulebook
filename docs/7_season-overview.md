@@ -38,7 +38,7 @@
 
 - **7.1.9**&emsp;If a franchise picks a player who is not listed as available on the official draft board, the draft will be paused upon discovery of the error, and the violating franchise must redraft their invalid pick from the remaining pool of DEs. This will not invalidate any picks made after the mistake and prior to discovery of the invalid draft choice.
 
-- **7.1.10**&emsp;GMs will draft more than five players to ensure all draft eligible players are selected. GMs must reduce their roster to the legal size as per [8.1.1](#preseason). Players who are released will enter Free Agency as described in [Section 5.6](5_transactions.md#56-cut).
+- **7.1.10**&emsp;GMs will draft more than five players to ensure all draft eligible players are selected. GMs must reduce their roster to the legal size as per [8.1.1](#preseason). Players who are released will enter Free Agency as per [5.5.2](5_transactions.md#55-Cuts)
 
 &emsp;
 
