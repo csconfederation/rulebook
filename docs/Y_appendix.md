@@ -4,7 +4,7 @@ This is a WIP - info not binding.
 
 &emsp;
 
-#### Abbreviations and Acronyms
+## Abbreviations and Acronyms
 
 - AGM - Assistant General Manager
 - CS - Counter-Strike
@@ -21,7 +21,7 @@ This is a WIP - info not binding.
 - Scrim - Scrimmage
 - VAC - Valve Anti-Cheat
 
-#### Glossary
+## Glossary
 
 - **Admin** - Admins are the elected leaders of CSC. The Admins are the ultimate decision makers on how the league is run.
 - **Assistant General Manager** - Assistant General Managers are appointed by the General Manager of a Franchise to assist the General Manager with their duties.

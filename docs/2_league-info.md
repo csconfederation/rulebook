@@ -4,7 +4,7 @@
 
 ## 2.1 Discord
 
-- **2.1.1**&emsp;The league will make use of Discord (https://discord.com/) as its primary platform for communication and organization. All official announcements will occur in the league’s Discord server.
+- **2.1.1**&emsp;The league will make use of Discord (<https://discord.com/>) as its primary platform for communication and organization. All official announcements will occur in the league’s Discord server.
 
 - **2.1.2**&emsp;All communication is expected to occur through Discord, using either the league’s server, your franchise’s server, or direct messages.
 
@@ -169,7 +169,7 @@
         - If a Player Rules Committee Representative position is vacant, the vacant position shall be replaced in the next election.
         - If a GM Rules Committee Representative position is vacant, Admins shall hold an election for a replacement representative for the remainder of the season.
         - If a Committee’s Rules Committee Representative position is vacant, the Committee Head for that committee shall take over until they designate a new representative if they choose to do so.
- 
+
 &emsp;
 
 ## 2.8 Clarifications

@@ -1,5 +1,10 @@
 #!/usr/bin/env python3
-"""Normalize Markdown for the CSC rulebook."""
+"""Normalize Markdown for the CSC rulebook.
+
+The formatter is intentionally limited to presentation changes. If a future
+change would alter visible wording or numbering, the script exits with an
+error instead of rewriting the file.
+"""
 
 from __future__ import annotations
 
@@ -13,7 +18,14 @@ HR_RE = re.compile(r"^ {0,3}([-*_])(?:\s*\1){2,}\s*$")
 BULLET_RE = re.compile(r"^(\s*)-\s+(.*)$")
 NUMBERED_RULE_RE = re.compile(r"^\*\*(\d+(?:\.\d+)+)\*\*&emsp;(.*)$")
 SAME_FILE_FRAGMENT_RE = re.compile(r"\]\(#([^)]+)\)")
-BARE_URL_RE = re.compile(r"(?<!\]\()(?<!<)(https?://[^\s)>]+)(?!>)")
+BARE_URL_RE = re.compile(r"(?<!\]\()(?<!<)(https?://[^\s)>]*[^\s)>.,;:!?])(?!>)")
+MARKDOWN_IMAGE_RE = re.compile(r"!\[([^\]]*)\]\([^)]+\)")
+MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[([^\]]+)\]\([^)]+\)")
+AUTO_LINK_RE = re.compile(r"<(https?://[^>]+)>")
+WORDING_TOKEN_RE = re.compile(
+    r"https?://[^\s)>]+|\d+(?:\.\d+)+|[a-z0-9]+(?:['’][a-z0-9]+)*",
+    re.IGNORECASE,
+)
 
 
 def iter_markdown_paths(args: list[str]) -> list[Path]:
@@ -182,6 +194,50 @@ def normalize_spacing(lines: list[str]) -> list[str]:
     return output
 
 
+def visible_markdown_text(text: str) -> str:
+    lines: list[str] = []
+    for line in text.replace("\r\n", "\n").replace("\r", "\n").split("\n"):
+        stripped = line.strip()
+        if stripped == "&emsp;" or HR_RE.match(line):
+            continue
+
+        line = MARKDOWN_IMAGE_RE.sub(r"\1", line)
+        line = MARKDOWN_LINK_RE.sub(r"\1", line)
+        line = AUTO_LINK_RE.sub(r"\1", line)
+        line = line.replace("&emsp;", " ")
+        lines.append(line)
+
+    return "\n".join(lines)
+
+
+def wording_tokens(text: str) -> list[str]:
+    return [token.lower() for token in WORDING_TOKEN_RE.findall(visible_markdown_text(text))]
+
+
+def ensure_preserves_visible_wording(path: Path, original: str, formatted: str) -> None:
+    original_tokens = wording_tokens(original)
+    formatted_tokens = wording_tokens(formatted)
+    if original_tokens == formatted_tokens:
+        return
+
+    mismatch_index = 0
+    for mismatch_index, (before, after) in enumerate(zip(original_tokens, formatted_tokens)):
+        if before != after:
+            break
+    else:
+        mismatch_index = min(len(original_tokens), len(formatted_tokens))
+
+    start = max(0, mismatch_index - 5)
+    end = mismatch_index + 6
+    before_context = " ".join(original_tokens[start:end])
+    after_context = " ".join(formatted_tokens[start:end])
+    raise ValueError(
+        f"{path}: formatter changed visible wording/numbering near token {mismatch_index + 1}.\n"
+        f"before: {before_context}\n"
+        f"after:  {after_context}"
+    )
+
+
 def format_markdown(text: str) -> str:
     text = text.replace("\r\n", "\n").replace("\r", "\n")
     lines = [normalize_special_text(line) for line in text.split("\n")]
@@ -196,15 +252,22 @@ def main() -> int:
     if not paths:
         return 0
 
-    changed = False
+    updates: list[tuple[Path, str]] = []
     for path in paths:
         original = path.read_text(encoding="utf-8")
         formatted = format_markdown(original)
+        try:
+            ensure_preserves_visible_wording(path, original, formatted)
+        except ValueError as exc:
+            print(str(exc), file=sys.stderr)
+            return 1
         if formatted != original:
-            path.write_text(formatted, encoding="utf-8")
-            changed = True
+            updates.append((path, formatted))
 
-    if not sys.stdout.isatty() and changed:
+    for path, formatted in updates:
+        path.write_text(formatted, encoding="utf-8")
+
+    if not sys.stdout.isatty() and updates:
         print(f"Formatted {len(paths)} Markdown file(s).")
     return 0
 

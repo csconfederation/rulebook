@@ -34,7 +34,7 @@
 
     - **4.2.3.3**&emsp;A GM may transition a non-playing AGM to contracted status on their franchise during or before pre-draft transactions as long as that AGM either completed their most recent contract in good standing or ended their last season as a regular FA.
 
-- **4.2.4**&emsp;GMs are permitted to cut themselves from their team at any time post draft, if they wish. A GM who does this will not become a Free Agent, but they will be eligible to return to their own roster during the season. A GM who wishes to return to their roster after being cut must treat this transaction the same as if they were picking up a Free Agent. Refer to [rule 5.5.5](5_transactions.md#55-cuts).
+- **4.2.4**&emsp;GMs are permitted to cut themselves from their team at any time post draft, if they wish. A GM who does this will not become a Free Agent, but they will be eligible to return to their own roster during the season. A GM who wishes to return to their roster after being cut must treat this transaction the same as if they were picking up a Free Agent. Refer to [rule 5.5.5](5_transactions.md#56-cut).
 
 - **4.2.5**&emsp;If a GM who is not a player wishes to play in a future season, they must declare for the draft, and be drafted in the round which the Admins/League Staff specify.
 
@@ -114,6 +114,6 @@
 
 - **4.5.3**&emsp;MMR caps will be recalculated at the beginning of every season prior to the draft.
 
-- **4.5.4**&emsp;A GM may choose to promote a player, raising the player's MMR to the minimum individual MMR of a higher tier to allow that player to qualify for that tier. If that player is later demoted, their MMR will return to its original value. Refer to [Section 5.6](5_transactions.md#56-promotionrelegation) for promotion and demotion rules.
+- **4.5.4**&emsp;A GM may choose to promote a player, raising the player's MMR to the minimum individual MMR of a higher tier to allow that player to qualify for that tier. If that player is later demoted, their MMR will return to its original value. Refer to [Section 5.6](5_transactions.md#59-promotiondemotion) for promotion and demotion rules.
 
 ---

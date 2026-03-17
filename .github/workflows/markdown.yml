@@ -5,7 +5,6 @@ on:
   push:
     branches:
       - main
-      - b0rt/auto-lint
 
 permissions:
   contents: read
@@ -26,6 +25,9 @@ jobs:
 
       - name: Install Node dependencies
         run: npm ci
+
+      - name: Verify formatter guardrails
+        run: python3 -m unittest discover -s scripts -p 'test_*.py'
 
       - name: Check formatting and lint
         run: |
