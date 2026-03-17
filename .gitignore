@@ -18,9 +18,6 @@ htmlcov/
 # MkDocs build output
 site/
 
-# Husky generated files
-.husky/_/
-
 # Editor and OS noise
 .DS_Store
 Thumbs.db

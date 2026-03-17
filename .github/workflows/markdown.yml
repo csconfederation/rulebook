@@ -1,4 +1,4 @@
-name: Markdown And Docs
+name: Docs
 
 on:
   pull_request:
@@ -10,9 +10,11 @@ permissions:
   contents: read
 
 jobs:
-  markdown:
-    name: Markdown formatting and lint
+  validate:
+    name: Validate docs
     runs-on: ubuntu-latest
+    env:
+      NO_MKDOCS_2_WARNING: "1"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
@@ -26,23 +28,40 @@ jobs:
       - name: Install Node dependencies
         run: npm ci
 
-      - name: Verify formatter guardrails
-        run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+          cache: pip
 
-      - name: Check formatting and lint
+      - name: Install MkDocs dependencies
+        run: pip install -r requirements.txt
+
+      - name: Validate docs
         run: |
+          python3 -m unittest discover -s scripts -p 'test_*.py'
           npm run format:md
           git diff --exit-code
           npm run lint:md
+          mkdocs build
 
-  mkdocs:
-    name: MkDocs strict build
+  deploy:
+    name: Deploy docs
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: validate
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: deploy-gh-pages
+      cancel-in-progress: true
     env:
       NO_MKDOCS_2_WARNING: "1"
     steps:
       - name: Checkout repository
         uses: actions/checkout@v6
+        with:
+          fetch-depth: 0
 
       - name: Setup Python
         uses: actions/setup-python@v6
@@ -53,5 +72,5 @@ jobs:
       - name: Install MkDocs dependencies
         run: pip install -r requirements.txt
 
-      - name: Build documentation
-        run: mkdocs build --strict
+      - name: Deploy docs to GitHub Pages
+        run: mkdocs gh-deploy --force
