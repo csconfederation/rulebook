@@ -4,7 +4,7 @@ The following policies are self-administered guidelines that help facilitate the
 
 &emsp;
 
-## Membership
+#### Membership
 
 - **Proposal 7_1  -  Replacement**&emsp;The admins will choose amongst themselves who will be a part of RC. The majority of the committee will decide if an RC member's lack of participation warrant replacement, though the intent of this is not to be used. Depending on the slot the inactive player holds, the replacement chosen will be:
 
@@ -28,7 +28,7 @@ The following policies are self-administered guidelines that help facilitate the
 - Any GM may run for the position and vote in the election.
 - The top voted candidate in the election will serve a one season term as the GM Rep.
 
-## Voting
+#### Voting
 
 - **Proposal 4_1  -  Voting Power**&emsp;[Voting] Rules Committee members will have an equal vote except in cases of recusal.
 
@@ -40,7 +40,7 @@ The following policies are self-administered guidelines that help facilitate the
 
 - **Proposal 9_2  -  Quorum**&emsp;As an additional requirement for a proposal to pass, a proposal must have been voted on by at least 75% of active RC.
 
-## Workflow
+#### Workflow
 
 - **Proposal 18_1 - Rules Committee Coordinator**&emsp;Admins will nominate a willing volunteer to manage the day to day maintenance and function of RC. RC will vote to approve this nomination with a simple majority threshold. The purpose of this position is to have a designated "leader" to ensure that RC is functioning in a timely and consistent manner. The RC Coordinator cannot be a GM or Committee Head. This role will not hold voting power.
 
