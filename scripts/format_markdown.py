@@ -130,10 +130,7 @@ def normalize_bullets(lines: list[str]) -> list[str]:
             if previous_source_indent is None or previous_formatted_indent is None:
                 indent = max(4, round(current_indent / 4) * 4)
             elif current_indent > previous_source_indent:
-                if previous_kind == "plain" and not previous_text.rstrip().endswith(":"):
-                    indent = previous_formatted_indent
-                else:
-                    indent = previous_formatted_indent + 4
+                indent = previous_formatted_indent + 4
             elif current_indent == previous_source_indent:
                 indent = previous_formatted_indent
             else:
@@ -268,7 +265,7 @@ def main() -> int:
         path.write_text(formatted, encoding="utf-8")
 
     if not sys.stdout.isatty() and updates:
-        print(f"Formatted {len(paths)} Markdown file(s).")
+        print(f"Formatted {len(updates)} Markdown file(s).")
     return 0
 
 

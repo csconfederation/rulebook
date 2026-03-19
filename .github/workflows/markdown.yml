@@ -72,5 +72,10 @@ jobs:
       - name: Install MkDocs dependencies
         run: pip install -r requirements.txt
 
+      - name: Configure git identity
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
       - name: Deploy docs to GitHub Pages
         run: mkdocs gh-deploy --force
