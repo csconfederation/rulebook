@@ -36,7 +36,7 @@ This is a WIP - info not binding.
 - **Inactive Reserve** - When a player is unable to play for an extended period of time, their GM may elect to place them in Inactive Reserve status.
 - **Match** - A Match consists of all Games played between two Teams on the same Match Day
 - **Match Day** - Matches are scheduled in order for all Teams in a Tier. A Match Day refers to the point in the Match order that a Match takes place on. For example, Match Day 1 consists of the first Match of the Season for each Team.
-- **Preseason** - Match Days before Roster lock are the Preseason. During Preseason, Teams play all drafted players at least once to determine who they want to sign to start the Season.
+- **Preseason** - Match Days before the Initial Roster Deadline are the Preseason. During Preseason, Teams play all drafted players at least once to determine who they want to sign to start the Season.
 - **Rookie** - A player in who has not played in a previous Season of CSC is considered a Rookie
 - **Roster** - A Roster consists of 5 players in the same Tier during the regular Season. During the Preseason, Rosters may temporarily exceed this amount.
 - **Scrim** - CSC makes servers available for Teams to Scrimmage or Scrim.

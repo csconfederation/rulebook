@@ -66,7 +66,7 @@
 
 ## Preseason
 
-- **8.1.1**&emsp;Preseason lasts from the season’s draft until the official Roster Lock date. In this time, there will be 2 cut days.
+- **8.1.1**&emsp;Preseason lasts from the season’s draft until the official Initial Roster Deadline. In this time, there will be 2 cut days.
 
     - **8.1.1.1**&emsp;The first cut time is the day after the second-to-last preseason match day at 11:59am ET. Teams must be at a maximum of 6 rostered players.
 
