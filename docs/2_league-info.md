@@ -4,7 +4,7 @@
 
 ## 2.1 Discord
 
-- **2.1.1**&emsp;The league will make use of Discord (https://discord.com/) as its primary platform for communication and organization. All official announcements will occur in the league’s Discord server.
+- **2.1.1**&emsp;The league will make use of Discord (<https://discord.com/>) as its primary platform for communication and organization. All official announcements will occur in the league’s Discord server.
 
 - **2.1.2**&emsp;All communication is expected to occur through Discord, using either the league’s server, your franchise’s server, or direct messages.
 
@@ -17,7 +17,7 @@
 ## 2.2 Broadcasting Rules
 
 - **2.2.1**&emsp;Recording of games and the saving of game replays is not required; however, teams are allowed to stream or record games in any way they would like. CSC asks that any streams involving league games be “safe for work”.
-  
+
 - **2.2.2**&emsp;CSC reserves the right to broadcast any league matches on our official Twitch/YouTube channels and to be able to spectate for the purpose of (re)broadcasting any league matches.
 
 - **2.2.3**&emsp;With consent from both teams, the media committee may delay the start of a match by up to 15 minutes from its scheduled time in order to resolve broadcast issues. Once the first round starts, the match may not be interrupted for any broadcast-related reasons.
@@ -45,7 +45,7 @@
     - **2.3.5.2**&emsp;Names may contain between 2 and 18 characters, inclusive.
 
     - **2.3.5.3**&emsp;Names may contain upper and lowercase English letters, numbers, spaces, and the following punctuation symbols: `._-!?:^+`
- 
+
         - **2.3.5.3.1**&emsp;Names may not consist only of numbers.
 
     - **2.3.5.4**&emsp;Names must be appropriate for CSC and may be denied if they contain slurs, NSFW language, or other content that does not comply with the Behavior Guidelines. Admins and mods may require players to change their name if it does not follow the Behavior Guidelines.
@@ -109,15 +109,15 @@
         - **2.6.2.1.3**&emsp;You may not currently have any serious strikes or more than two normal strikes.
 
         - **2.6.2.1.4**&emsp;You must not have been removed (or resigned to avoid removal) as admin in the past three seasons.
-     
+
         - **2.6.2.1.5**&emsp;Admin candidates that pass the Backer Pool will have their strike counts for each strike category published by the mod committee.
-    
+
     - **2.6.2.2**&emsp;Only CSC members who participated in the previous season as a player or Staff member are eligible to vote in the admin election.
 
     - **2.6.2.3**&emsp;If there is suspected abuse, severe inactivity to the detriment of the league, or misuse of power or authority by an Admin, then an investigation for possible removal shall be made.
 
         - **2.6.2.3.1**&emsp;The members of the group who will take part in that investigation are:
-    
+
             - The Server Owner;
             - Admins not under investigation;
             - The head of the Moderation Committee;
@@ -132,13 +132,13 @@
         - **2.6.2.3.4**&emsp;After the evidence is gathered, the group will discuss and all non-recused members of the group shall vote on admin removal. Each of the bodies listed above has one vote. (If the Admin body is tied, their vote will be counted as one against removal). A 2/3 majority vote is needed for removal.
 
             - **2.6.2.3.4.1**&emsp;Any members that are close friends or otherwise have a relationship that presents a conflict of interest with the Admin in question will recuse themselves from an investigation. Upon recusal of a member who was not an Admin or the Server Owner, the recused member will be replaced by the next most senior member in their respective subgroup.
-              
+
 - **2.6.3**&emsp;The teams of the league are led by General Managers (GMs). Each GM is in charge of a grouping of teams known as a franchise. Some GMs have additional roles. GMs can be players; however, special rules apply to these circumstances.
 
     - **2.6.3.1**&emsp;A GM or AGM may have any staff role other than Transaction Manager or Admin.
- 
+
         - **2.6.3.1.1**&emsp;A GM or AGM in Numbers Committee may not be involved in the manual MMR adjustments of players, but may still work on numbers tech.
-     
+
     - **2.6.3.2**&emsp;If a GM is a player, this rule supersedes the rules for players becoming staff. Any other restrictions on which Staff roles may be taken apply in addition to the restrictions in this rule.
 
 - **2.6.4**&emsp;Captains are players who have been tasked by their GM to lead a team. There are no specific responsibilities or privileges associated with being a Captain, other than what their specific GM grants them. Captains are not permitted to see privileged information.
@@ -150,9 +150,9 @@
 - **2.6.6**&emsp;Committee Handbooks
 
     - **2.6.6.1**&emsp;Each committee will make a public document outlining committee structure and procedures, not including information deemed sensitive/proprietary, which will only be referenced by name (e.x. the. "numbers formula").
-      
+
     - **2.6.6.2**&emsp;When applicable, rules within this rulebook supersede policies made by committee handbooks or decisions made at the committee level.
-      
+
     - **2.6.6.3**&emsp;In the event a committee requires an emergency policy change that conflicts with the rulebook, a committee may supersede the policy with majority approval by the Admins.
 
 - **2.6.7**&emsp;Election ranking and replacement
@@ -160,7 +160,7 @@
     - **2.6.7.1**&emsp;Elections in CSC shall use a Ranked Choice Voting system unless otherwise stated.
 
     - **2.6.7.2**&emsp;A committee may trigger a new vote for the committee head if at least 10% of the committee’s members petition for such a vote.
- 
+
     - **2.6.7.3**&emsp;In the event of a Staff member removal, voluntary or otherwise, the following procedures will be used depending on the position:
         - If an Admin spot is vacant during the first half of the season, the next-highest voted candidate from the previous election will take the spot. In the second half of the season, no replacement shall occur for a single Admin.
         - If there are less than 4 active Admins, the remaining Admins shall run a full Admin election for replacing the inactive or empty spots.
@@ -169,7 +169,7 @@
         - If a Player Rules Committee Representative position is vacant, the vacant position shall be replaced in the next election.
         - If a GM Rules Committee Representative position is vacant, Admins shall hold an election for a replacement representative for the remainder of the season.
         - If a Committee’s Rules Committee Representative position is vacant, the Committee Head for that committee shall take over until they designate a new representative if they choose to do so.
- 
+
 &emsp;
 
 ## 2.8 Clarifications

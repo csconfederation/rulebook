@@ -1,0 +1,12 @@
+{
+  "name": "csc-rulebook",
+  "private": true,
+  "packageManager": "npm@9.2.0",
+  "scripts": {
+    "format:md": "python3 scripts/format_markdown.py",
+    "lint:md": "markdownlint-cli2"
+  },
+  "devDependencies": {
+    "markdownlint-cli2": "^0.21.0"
+  }
+}

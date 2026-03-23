@@ -1,0 +1,13 @@
+{
+  "globs": [
+    "*.md",
+    "docs/**/*.md"
+  ],
+  "config": {
+    "default": true,
+    "MD007": {
+      "indent": 4
+    },
+    "MD013": false
+  }
+}

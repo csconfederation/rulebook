@@ -1,24 +1,29 @@
 site_name: CSC Rulebook
 site_url: https://rulebook.csconfederation.com
+strict: true
+
 theme:
   name: material
   palette:
     - media: "(prefers-color-scheme: light)"
-      scheme: default 
-
+      scheme: default
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
+
 extra_javascript:
   - javascripts/extra.js
+
 extra_css:
   - stylesheets/extra.css
+
 nav:
-    - 1 - Introduction: 1_introduction.md
-    - 2 - League Info: 2_league-info.md
-    - 3 - CSC Conduct Guidelines: 3_csc-conduct-guidelines.md
-    - 4 - League Processes: 4_league-processes.md
-    - 5 - Transactions: 5_transactions.md
-    - 6 - Gameplay Rules: 6_gameplay-rules.md
-    - 7-10 - Season Overview: 7_season-overview.md
-    - Rules Committee Policies: X_rc-policies.md
-    - Appendix: Y_appendix.md
+  - Home: index.md
+  - 1 - Introduction: 1_introduction.md
+  - 2 - League Info: 2_league-info.md
+  - 3 - CSC Conduct Guidelines: 3_csc-conduct-guidelines.md
+  - 4 - League Processes: 4_league-processes.md
+  - 5 - Transactions: 5_transactions.md
+  - 6 - Gameplay Rules: 6_gameplay-rules.md
+  - 7-10 - Season Overview: 7_season-overview.md
+  - Rules Committee Policies: X_rc-policies.md
+  - Appendix: Y_appendix.md

@@ -47,4 +47,3 @@ As of right now there are six skill tiers within the league: Premier, Elite, Cha
 - **1.3.4**&emsp;For Premier, a double header is played starting at 9pm ET on Mondays. Playoff matches are best of 3 and start at 9pm ET on Mondays.
 
 ---
-

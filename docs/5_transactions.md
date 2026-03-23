@@ -10,10 +10,10 @@
     - [Cut](5_transactions.md#56-cut)
     - [Temporary Substitution](5_transactions.md#57-temporary-substitution)
     - [Temporary Promotion](5_transactions.md#58-temporary-promotion)
-    - [Promotion/Demotion](5_transactions.md#59-promotion/demotion)
-    - [Inactive Reserve (IR)](5_transactions.md#510-inactive-reserve-(ir))
+    - [Promotion/Demotion](5_transactions.md#59-promotiondemotion)
+    - [Inactive Reserve (IR)](5_transactions.md#510-inactive-reserve-ir)
     - [Trade](5_transactions.md#511-trade)
-    - [Waiver Claim](5_transactions.md#512-waiver-claim)
+    - [Waiver Claim](5_transactions.md#512-waivers-and-waiver-claims)
     - [Assign Captain](5_transactions.md#513-assign-captain)
     - [Assign AGM](5_transactions.md#514-assign-agm)
     - [Reschedule](5_transactions.md#515-reschedule)
@@ -31,7 +31,7 @@
 - **5.1.5**&emsp;Pre-Match Transaction Deadline: Transactions must be submitted at least 15 minutes before the match start time. This ensures TMs have enough time to process the transactions prior to the match.
 
     - **5.1.5.1**&emsp;Transaction requests submitted after the Pre-Match Transaction Deadline will be processed after the match. Late Temporary Substitution or Temporary Promotion transactions will be canceled.
- 
+
         - **5.1.5.1.1**&emsp;For a team playing multiple matches in a day, a Temporary Substitution transaction that is submitted too late for the first match will still be processed for the later matches.
 
 &emsp;
@@ -64,21 +64,21 @@
 
     - **5.3.3.1**&emsp;Use either “for transactions, would you like to ..” or “officially, would you like to..” in the request, to make it clear to the player that this is an official agreement.
 
-    - **5.3.3.2**&emsp;Specify the action the player is agreeing to, e.g. 
+    - **5.3.3.2**&emsp;Specify the action the player is agreeing to, e.g.
         - “Would you like to officially sign with our Elite team, [team name]?”
         - “For transactions, will you sub for Recruit for 9/2 MD2?”
 
     - **5.3.3.3**&emsp;The player must clearly agree to the request by responding affirmatively.
 
     - **5.3.3.4**&emsp;For Temp Sub requests for playoff matches or match days where a team has multiple matches scheduled, the request must specify if the player is subbing for all or some of the maps. If this information is not specified, it will be treated as a request to sub for all maps.
- 
+
 - **5.3.4**&emsp;The screenshot must include the GM/AGM/Captain, the player, and the question/answer. The date and time of the message should be visible.
 
 &emsp;
 
 ## 5.4 Sign
 
-- **5.4.1**&emsp;A Sign transaction is used to add a player to a franchise. 
+- **5.4.1**&emsp;A Sign transaction is used to add a player to a franchise.
 
 - **5.4.2**&emsp;[Proof of player consent](5_transactions.md#53-proof-of-player-consent) must be given when submitting this transaction.
 
@@ -86,7 +86,7 @@
 
 - **5.4.4**&emsp;Signs can be done before the draft during the Standard Transaction Period or during the Regular Season up to the Transaction Deadline for the tier of the team the player is being signed to.
 
-- **5.4.5**&emsp;If a player is being signed during the regular season, the Sign must be accompanied by a transaction (such as a Cut or IR) to make sure the team stays at 5 players. 
+- **5.4.5**&emsp;If a player is being signed during the regular season, the Sign must be accompanied by a transaction (such as a Cut or IR) to make sure the team stays at 5 players.
 
 &emsp;
 
@@ -111,7 +111,7 @@
     - **5.6.2.1**&emsp;In preseason, proof of the player playing in a match should be provided. See [rule 8.1.2](7_season-overview.md#preseason).
 
 - **5.6.3**&emsp;At least two match days (including Preseason) must have passed since the player was signed or re-signed to the franchise.
-	
+
     - **5.6.3.1**&emsp;See [section 4.3](4_league-processes.md#43-player-contracts) for additional rules on player protections.
 
 - **5.6.4**&emsp;Cut players typically become Free Agents, with some exceptions:
@@ -128,7 +128,7 @@
 
 - **5.6.5**&emsp;Players that are Cut may be placed on waivers (See [section 5.12](5_transactions.md#51-general-transactions) for more details on Waivers):
 
-    - **5.6.5.1**&emsp;Before Roster Lock in Preseason, Cut players will be put on waivers if they went through the draft as a signed player (not DE or FA). 
+    - **5.6.5.1**&emsp;Before Roster Lock in Preseason, Cut players will be put on waivers if they went through the draft as a signed player (not DE or FA).
 
     - **5.6.5.2**&emsp;After Roster Lock in Preseason, Cut players will be put on waivers.
 
@@ -155,7 +155,7 @@
 - **5.8.1**&emsp;Temporary Promotions allow a rostered player to act as a substitute for a higher tier team within their franchise.
 
 - **5.8.2**&emsp;[Proof of player consent](5_transactions.md#53-proof-of-player-consent) must be given when submitting this transaction.
-  
+
 - **5.8.3**&emsp;When submitting this transaction, both the player being Temporarily Promoted and the rostered player being subbed out must be specified.
 
 - **5.8.4**&emsp;A player may be Temporarily Promoted up to two match days total in a season, across Regular Season and Playoffs.
@@ -164,7 +164,7 @@
 
 - **5.8.6**&emsp;During Playoffs, the following rules apply to Temporary Promotions:
 
-    - **5.8.6.1**&emsp;The Temporary Substitution Playoff rules in [Rule 10.2.1](7_season-overview.md#playoffs-and-beyond) apply. 
+    - **5.8.6.1**&emsp;The Temporary Substitution Playoff rules in [Rule 10.2.1](7_season-overview.md#playoffs-and-beyond) apply.
 
     - **5.8.6.2**&emsp;A player may only be Temporarily Promoted one match day during playoffs. If they have already been Temporarily Promoted twice during the Regular Season, they are ineligible for Temporary Promotion in Playoffs.
 
@@ -208,7 +208,7 @@
 
 ## 5.10 Inactive Reserve (IR)
 
-- **5.10.1**&emsp;Inactive Reserve allows a player to stay contracted to a franchise while they are on an extended break without taking up an active roster spot on the team. 
+- **5.10.1**&emsp;Inactive Reserve allows a player to stay contracted to a franchise while they are on an extended break without taking up an active roster spot on the team.
 
 - **5.10.2**&emsp;[Proof of player consent](5_transactions.md#53-proof-of-player-consent) must be given when submitting this transaction.
 
@@ -265,7 +265,6 @@
     - **5.11.6.3**&emsp;The vote will be majority wins, with every admin voting for, against, or abstaining. In the event of a tie, the vote will fail and the franchise will be able to trade.
 
     - **5.11.6.4**&emsp;If the vote fails, another vote that targets the same franchise cannot be called until at least 4 match days have passed.
-
 
 &emsp;
 
