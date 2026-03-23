@@ -94,9 +94,7 @@
 
     - **9.1.2.5**&emsp;Should special circumstances occur, a contingency day can be used to reschedule matches if sanctioned by League Staff.
 
-- **9.1.3**&emsp;CSC will attempt to stream showcase matches every match day. These are not mandatory, but are recommended!
-
-- **9.1.4**&emsp;Playoff seeding is determined using the following criteria in order. In the event that 3 or more teams are tied and a tiebreaker results in only a partial break of the tie, tiebreaking for the remaining tied teams will be restarted from the first criterion.
+- **9.1.3**&emsp;Playoff seeding is determined using the following criteria in order. In the event that 3 or more teams are tied and a tiebreaker results in only a partial break of the tie, tiebreaking for the remaining tied teams will be restarted from the first criterion.
 
     - Regular Season Match Win Percentage
     - Head to Head Match Win Percentage; used if:
@@ -108,9 +106,9 @@
     - (A)GM 1v1 (optional)
     - Coin flip
 
-- **9.1.5**&emsp;In the event of a tie between 3 or more teams, if any team(s) are able to be separated, each group of remaining tied teams will independently restart the tiebreaking process at 9.1.4.1.
+- **9.1.4**&emsp;In the event of a tie between 3 or more teams, if any team(s) are able to be separated, each group of remaining tied teams will independently restart the tiebreaking process at 9.1.3.1.
 
-    - **9.1.5.1**&emsp;For example Teams A, B, C, and D are tied and are not in conferences. If Team A and Team B are 2-1 against these teams (H2H), and Teams C and D are 1-2 against these teams. Then A and B will be isolated from C and D and will be placed above them. A and B then will go back to conference (in this case H2H record) and tiebreak again. C and D will do the same. If A beat B and C beat D then the final order will be A, B, C, D.
+    - **9.1.4.1**&emsp;For example Teams A, B, C, and D are tied and are not in conferences. If Team A and Team B are 2-1 against these teams (H2H), and Teams C and D are 1-2 against these teams. Then A and B will be isolated from C and D and will be placed above them. A and B then will go back to conference (in this case H2H record) and tiebreak again. C and D will do the same. If A beat B and C beat D then the final order will be A, B, C, D.
 
 &emsp;
 
