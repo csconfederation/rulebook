@@ -230,7 +230,7 @@
 
 ## 5.11 Trade
 
-- **5.11.1**&emsp;A Trade is an exchange of assets (players and draft picks) between two or more franchises.
+- **5.11.1**&emsp;A Trade is an exchange of assets (players and draft picks) between two franchises.
 
 - **5.11.2**&emsp;Trades must be agreed upon and submitted by a GM or AGM from *every* franchise involved. Proof of agreement must be submitted to TMs.
 
