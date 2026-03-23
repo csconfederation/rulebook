@@ -16,8 +16,12 @@
       
         <link rel="next" href="../6_gameplay-rules/">
       
+      
+        
+      
+      
       <link rel="icon" href="../assets/images/favicon.png">
-      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-9.0.6">
+      <meta name="generator" content="mkdocs-1.6.1, mkdocs-material-9.7.5">
     
     
       
@@ -25,14 +29,17 @@
       
     
     
-      <link rel="stylesheet" href="../assets/stylesheets/main.558e4712.min.css">
+      <link rel="stylesheet" href="../assets/stylesheets/main.484c7ddc.min.css">
       
         
-        <link rel="stylesheet" href="../assets/stylesheets/palette.2505c338.min.css">
+        <link rel="stylesheet" href="../assets/stylesheets/palette.ab4e12ef.min.css">
       
       
 
+
     
+    
+      
     
     
       
@@ -46,11 +53,10 @@
     
       <link rel="stylesheet" href="../stylesheets/extra.css">
     
-    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    <script>__md_scope=new URL("..",location),__md_hash=e=>[...e].reduce(((e,_)=>(e<<5)-e+_.charCodeAt(0)),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
     
       
 
-    
     
     
   </head>
@@ -63,11 +69,8 @@
     
     
     
-    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent="">
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo">
   
-    
-    
-      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -87,16 +90,19 @@
     
       
 
-<header class="md-header" data-md-component="header">
+  
+
+<header class="md-header md-header--shadow" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href=".." title="CSC Rulebook" class="md-header__button md-logo" aria-label="CSC Rulebook" data-md-component="logo">
       
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
-      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+      
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3zm0 5h18v2H3zm0 5h18v2H3z"/></svg>
     </label>
     <div class="md-header__title" data-md-component="header-title">
       <div class="md-header__ellipsis">
@@ -115,42 +121,57 @@
       </div>
     </div>
     
-      <form class="md-header__option" data-md-component="palette">
-        
-          
-          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="" data-md-color-accent=""  aria-hidden="true"  type="radio" name="__palette" id="__palette_1">
-          
-        
-          
-          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="" data-md-color-accent=""  aria-hidden="true"  type="radio" name="__palette" id="__palette_2">
-          
-        
-      </form>
+      
+        <form class="md-header__option" data-md-component="palette">
+  
     
     
     
-      <label class="md-header__button md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-      </label>
-      <div class="md-search" data-md-component="search" role="dialog">
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-hidden="true"  type="radio" name="__palette" id="__palette_0">
+    
+  
+    
+    
+    
+    <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="indigo" data-md-color-accent="indigo"  aria-hidden="true"  type="radio" name="__palette" id="__palette_1">
+    
+  
+</form>
+      
+    
+    
+      <script>var palette=__md_get("__palette");if(palette&&palette.color){if("(prefers-color-scheme)"===palette.color.media){var media=matchMedia("(prefers-color-scheme: light)"),input=document.querySelector(media.matches?"[data-md-color-media='(prefers-color-scheme: light)']":"[data-md-color-media='(prefers-color-scheme: dark)']");palette.color.media=input.getAttribute("data-md-color-media"),palette.color.scheme=input.getAttribute("data-md-color-scheme"),palette.color.primary=input.getAttribute("data-md-color-primary"),palette.color.accent=input.getAttribute("data-md-color-accent")}for(var[key,value]of Object.entries(palette.color))document.body.setAttribute("data-md-color-"+key,value)}</script>
+    
+    
+    
+      
+      
+        <label class="md-header__button md-icon" for="__search">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        </label>
+        <div class="md-search" data-md-component="search" role="dialog">
   <label class="md-search__overlay" for="__search"></label>
   <div class="md-search__inner" role="search">
     <form class="md-search__form" name="search">
       <input type="text" class="md-search__input" name="query" aria-label="Search" placeholder="Search" autocapitalize="off" autocorrect="off" autocomplete="off" spellcheck="false" data-md-component="search-query" required>
       <label class="md-search__icon md-icon" for="__search">
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.516 6.516 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5Z"/></svg>
-        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M9.5 3A6.5 6.5 0 0 1 16 9.5c0 1.61-.59 3.09-1.56 4.23l.27.27h.79l5 5-1.5 1.5-5-5v-.79l-.27-.27A6.52 6.52 0 0 1 9.5 16 6.5 6.5 0 0 1 3 9.5 6.5 6.5 0 0 1 9.5 3m0 2C7 5 5 7 5 9.5S7 14 9.5 14 14 12 14 9.5 12 5 9.5 5"/></svg>
+        
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11z"/></svg>
       </label>
       <nav class="md-search__options" aria-label="Search">
         
         <button type="reset" class="md-search__icon md-icon" title="Clear" aria-label="Clear" tabindex="-1">
-          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12 19 6.41Z"/></svg>
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"/></svg>
         </button>
       </nav>
       
     </form>
     <div class="md-search__output">
-      <div class="md-search__scrollwrap" data-md-scrollfix>
+      <div class="md-search__scrollwrap" tabindex="0" data-md-scrollfix>
         <div class="md-search-result" data-md-component="search-result">
           <div class="md-search-result__meta">
             Initializing search
@@ -161,6 +182,7 @@
     </div>
   </div>
 </div>
+      
     
     
   </nav>
@@ -185,12 +207,13 @@
                     
 
 
+
 <nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
   <label class="md-nav__title" for="__drawer">
     <a href=".." title="CSC Rulebook" class="md-nav__button md-logo" aria-label="CSC Rulebook" data-md-component="logo">
       
   
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54"/></svg>
 
     </a>
     CSC Rulebook
@@ -200,14 +223,53 @@
     
       
       
-      
+  
+  
+  
+  
+    <li class="md-nav__item">
+      <a href=".." class="md-nav__link">
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Home
+  
 
+    
+  </span>
+  
+  
+
+      </a>
+    </li>
+  
+
+    
+      
+      
+  
   
   
   
     <li class="md-nav__item">
       <a href="../1_introduction/" class="md-nav__link">
-        1 - Introduction
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    1 - Introduction
+  
+
+    
+  </span>
+  
+  
+
       </a>
     </li>
   
@@ -215,14 +277,26 @@
     
       
       
-      
-
+  
   
   
   
     <li class="md-nav__item">
       <a href="../2_league-info/" class="md-nav__link">
-        2 - League Info
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    2 - League Info
+  
+
+    
+  </span>
+  
+  
+
       </a>
     </li>
   
@@ -230,14 +304,26 @@
     
       
       
-      
-
+  
   
   
   
     <li class="md-nav__item">
       <a href="../3_csc-conduct-guidelines/" class="md-nav__link">
-        3 - CSC Conduct Guidelines
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    3 - CSC Conduct Guidelines
+  
+
+    
+  </span>
+  
+  
+
       </a>
     </li>
   
@@ -245,14 +331,26 @@
     
       
       
-      
-
+  
   
   
   
     <li class="md-nav__item">
       <a href="../4_league-processes/" class="md-nav__link">
-        4 - League Processes
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    4 - League Processes
+  
+
+    
+  </span>
+  
+  
+
       </a>
     </li>
   
@@ -260,28 +358,53 @@
     
       
       
-      
-
   
   
     
   
   
+  
     <li class="md-nav__item md-nav__item--active">
       
-      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      <input class="md-nav__toggle md-toggle" type="checkbox" id="__toc">
       
       
         
       
       
         <label class="md-nav__link md-nav__link--active" for="__toc">
-          5 - Transactions
+          
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    5 - Transactions
+  
+
+    
+  </span>
+  
+  
+
           <span class="md-nav__icon md-icon"></span>
         </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
-        5 - Transactions
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    5 - Transactions
+  
+
+    
+  </span>
+  
+  
+
       </a>
       
         
@@ -301,105 +424,165 @@
       
         <li class="md-nav__item">
   <a href="#51-general-transactions" class="md-nav__link">
-    5.1 General Transactions
+    <span class="md-ellipsis">
+      
+        5.1 General Transactions
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#52-free-agents-and-permanent-free-agents" class="md-nav__link">
-    5.2 Free Agents and Permanent Free Agents
+    <span class="md-ellipsis">
+      
+        5.2 Free Agents and Permanent Free Agents
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#53-proof-of-player-consent" class="md-nav__link">
-    5.3 Proof of Player Consent
+    <span class="md-ellipsis">
+      
+        5.3 Proof of Player Consent
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#54-sign" class="md-nav__link">
-    5.4 Sign
+    <span class="md-ellipsis">
+      
+        5.4 Sign
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#55-re-sign" class="md-nav__link">
-    5.5 Re-sign
+    <span class="md-ellipsis">
+      
+        5.5 Re-sign
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#56-cut" class="md-nav__link">
-    5.6 Cut
+    <span class="md-ellipsis">
+      
+        5.6 Cut
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#57-temporary-substitution" class="md-nav__link">
-    5.7 Temporary Substitution
+    <span class="md-ellipsis">
+      
+        5.7 Temporary Substitution
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#58-temporary-promotion" class="md-nav__link">
-    5.8 Temporary Promotion
+    <span class="md-ellipsis">
+      
+        5.8 Temporary Promotion
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#59-promotiondemotion" class="md-nav__link">
-    5.9 Promotion/Demotion
+    <span class="md-ellipsis">
+      
+        5.9 Promotion/Demotion
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#510-inactive-reserve-ir" class="md-nav__link">
-    5.10 Inactive Reserve (IR)
+    <span class="md-ellipsis">
+      
+        5.10 Inactive Reserve (IR)
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#511-trade" class="md-nav__link">
-    5.11 Trade
+    <span class="md-ellipsis">
+      
+        5.11 Trade
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#512-waivers-and-waiver-claims" class="md-nav__link">
-    5.12 Waivers and Waiver Claims
+    <span class="md-ellipsis">
+      
+        5.12 Waivers and Waiver Claims
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#513-assign-captain" class="md-nav__link">
-    5.13 Assign Captain
+    <span class="md-ellipsis">
+      
+        5.13 Assign Captain
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#514-assign-agm" class="md-nav__link">
-    5.14 Assign AGM
+    <span class="md-ellipsis">
+      
+        5.14 Assign AGM
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#515-reschedule" class="md-nav__link">
-    5.15 Reschedule
+    <span class="md-ellipsis">
+      
+        5.15 Reschedule
+      
+    </span>
   </a>
   
 </li>
@@ -414,14 +597,26 @@
     
       
       
-      
-
+  
   
   
   
     <li class="md-nav__item">
       <a href="../6_gameplay-rules/" class="md-nav__link">
-        6 - Gameplay Rules
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    6 - Gameplay Rules
+  
+
+    
+  </span>
+  
+  
+
       </a>
     </li>
   
@@ -429,14 +624,26 @@
     
       
       
-      
-
+  
   
   
   
     <li class="md-nav__item">
       <a href="../7_season-overview/" class="md-nav__link">
-        7-10 - Season Overview
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    7-10 - Season Overview
+  
+
+    
+  </span>
+  
+  
+
       </a>
     </li>
   
@@ -444,14 +651,26 @@
     
       
       
-      
-
+  
   
   
   
     <li class="md-nav__item">
       <a href="../X_rc-policies/" class="md-nav__link">
-        Rules Committee Policies
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Rules Committee Policies
+  
+
+    
+  </span>
+  
+  
+
       </a>
     </li>
   
@@ -459,14 +678,26 @@
     
       
       
-      
-
+  
   
   
   
     <li class="md-nav__item">
       <a href="../Y_appendix/" class="md-nav__link">
-        Appendix
+        
+  
+  
+  <span class="md-ellipsis">
+    
+  
+    Appendix
+  
+
+    
+  </span>
+  
+  
+
       </a>
     </li>
   
@@ -500,105 +731,165 @@
       
         <li class="md-nav__item">
   <a href="#51-general-transactions" class="md-nav__link">
-    5.1 General Transactions
+    <span class="md-ellipsis">
+      
+        5.1 General Transactions
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#52-free-agents-and-permanent-free-agents" class="md-nav__link">
-    5.2 Free Agents and Permanent Free Agents
+    <span class="md-ellipsis">
+      
+        5.2 Free Agents and Permanent Free Agents
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#53-proof-of-player-consent" class="md-nav__link">
-    5.3 Proof of Player Consent
+    <span class="md-ellipsis">
+      
+        5.3 Proof of Player Consent
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#54-sign" class="md-nav__link">
-    5.4 Sign
+    <span class="md-ellipsis">
+      
+        5.4 Sign
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#55-re-sign" class="md-nav__link">
-    5.5 Re-sign
+    <span class="md-ellipsis">
+      
+        5.5 Re-sign
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#56-cut" class="md-nav__link">
-    5.6 Cut
+    <span class="md-ellipsis">
+      
+        5.6 Cut
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#57-temporary-substitution" class="md-nav__link">
-    5.7 Temporary Substitution
+    <span class="md-ellipsis">
+      
+        5.7 Temporary Substitution
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#58-temporary-promotion" class="md-nav__link">
-    5.8 Temporary Promotion
+    <span class="md-ellipsis">
+      
+        5.8 Temporary Promotion
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#59-promotiondemotion" class="md-nav__link">
-    5.9 Promotion/Demotion
+    <span class="md-ellipsis">
+      
+        5.9 Promotion/Demotion
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#510-inactive-reserve-ir" class="md-nav__link">
-    5.10 Inactive Reserve (IR)
+    <span class="md-ellipsis">
+      
+        5.10 Inactive Reserve (IR)
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#511-trade" class="md-nav__link">
-    5.11 Trade
+    <span class="md-ellipsis">
+      
+        5.11 Trade
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#512-waivers-and-waiver-claims" class="md-nav__link">
-    5.12 Waivers and Waiver Claims
+    <span class="md-ellipsis">
+      
+        5.12 Waivers and Waiver Claims
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#513-assign-captain" class="md-nav__link">
-    5.13 Assign Captain
+    <span class="md-ellipsis">
+      
+        5.13 Assign Captain
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#514-assign-agm" class="md-nav__link">
-    5.14 Assign AGM
+    <span class="md-ellipsis">
+      
+        5.14 Assign AGM
+      
+    </span>
   </a>
   
 </li>
       
         <li class="md-nav__item">
   <a href="#515-reschedule" class="md-nav__link">
-    5.15 Reschedule
+    <span class="md-ellipsis">
+      
+        5.15 Reschedule
+      
+    </span>
   </a>
   
 </li>
@@ -613,6 +904,7 @@
           
           
             <div class="md-content" data-md-component="content">
+              
               <article class="md-content__inner md-typeset">
                 
                   
@@ -631,10 +923,10 @@
 <li><a href="./#56-cut">Cut</a></li>
 <li><a href="./#57-temporary-substitution">Temporary Substitution</a></li>
 <li><a href="./#58-temporary-promotion">Temporary Promotion</a></li>
-<li><a href="./#59-promotion/demotion">Promotion/Demotion</a></li>
-<li><a href="./#510-inactive-reserve-(ir)">Inactive Reserve (IR)</a></li>
+<li><a href="./#59-promotiondemotion">Promotion/Demotion</a></li>
+<li><a href="./#510-inactive-reserve-ir">Inactive Reserve (IR)</a></li>
 <li><a href="./#511-trade">Trade</a></li>
-<li><a href="./#512-waiver-claim">Waiver Claim</a></li>
+<li><a href="./#512-waivers-and-waiver-claims">Waiver Claim</a></li>
 <li><a href="./#513-assign-captain">Assign Captain</a></li>
 <li><a href="./#514-assign-agm">Assign AGM</a></li>
 <li><a href="./#515-reschedule">Reschedule</a></li>
@@ -712,7 +1004,7 @@
 <p><strong>5.3.3.1</strong>&emsp;Use either “for transactions, would you like to ..” or “officially, would you like to..” in the request, to make it clear to the player that this is an official agreement.</p>
 </li>
 <li>
-<p><strong>5.3.3.2</strong>&emsp;Specify the action the player is agreeing to, e.g. </p>
+<p><strong>5.3.3.2</strong>&emsp;Specify the action the player is agreeing to, e.g.</p>
 <ul>
 <li>“Would you like to officially sign with our Elite team, [team name]?”</li>
 <li>“For transactions, will you sub for Recruit for 9/2 MD2?”</li>
@@ -734,7 +1026,7 @@
 <h2 id="54-sign">5.4 Sign</h2>
 <ul>
 <li>
-<p><strong>5.4.1</strong>&emsp;A Sign transaction is used to add a player to a franchise. </p>
+<p><strong>5.4.1</strong>&emsp;A Sign transaction is used to add a player to a franchise.</p>
 </li>
 <li>
 <p><strong>5.4.2</strong>&emsp;<a href="./#53-proof-of-player-consent">Proof of player consent</a> must be given when submitting this transaction.</p>
@@ -746,7 +1038,7 @@
 <p><strong>5.4.4</strong>&emsp;Signs can be done before the draft during the Standard Transaction Period or during the Regular Season up to the Transaction Deadline for the tier of the team the player is being signed to.</p>
 </li>
 <li>
-<p><strong>5.4.5</strong>&emsp;If a player is being signed during the regular season, the Sign must be accompanied by a transaction (such as a Cut or IR) to make sure the team stays at 5 players. </p>
+<p><strong>5.4.5</strong>&emsp;If a player is being signed during the regular season, the Sign must be accompanied by a transaction (such as a Cut or IR) to make sure the team stays at 5 players.</p>
 </li>
 </ul>
 <p>&emsp;</p>
@@ -809,7 +1101,7 @@
 <p><strong>5.6.5</strong>&emsp;Players that are Cut may be placed on waivers (See <a href="./#51-general-transactions">section 5.12</a> for more details on Waivers):</p>
 <ul>
 <li>
-<p><strong>5.6.5.1</strong>&emsp;Before Roster Lock in Preseason, Cut players will be put on waivers if they went through the draft as a signed player (not DE or FA). </p>
+<p><strong>5.6.5.1</strong>&emsp;Before Roster Lock in Preseason, Cut players will be put on waivers if they went through the draft as a signed player (not DE or FA).</p>
 </li>
 <li>
 <p><strong>5.6.5.2</strong>&emsp;After Roster Lock in Preseason, Cut players will be put on waivers.</p>
@@ -861,7 +1153,7 @@
 <p><strong>5.8.6</strong>&emsp;During Playoffs, the following rules apply to Temporary Promotions:</p>
 <ul>
 <li>
-<p><strong>5.8.6.1</strong>&emsp;The Temporary Substitution Playoff rules in <a href="../7_season-overview/#playoffs-and-beyond">Rule 10.2.1</a> apply. </p>
+<p><strong>5.8.6.1</strong>&emsp;The Temporary Substitution Playoff rules in <a href="../7_season-overview/#playoffs-and-beyond">Rule 10.2.1</a> apply.</p>
 </li>
 <li>
 <p><strong>5.8.6.2</strong>&emsp;A player may only be Temporarily Promoted one match day during playoffs. If they have already been Temporarily Promoted twice during the Regular Season, they are ineligible for Temporary Promotion in Playoffs.</p>
@@ -929,7 +1221,7 @@
 <h2 id="510-inactive-reserve-ir">5.10 Inactive Reserve (IR)</h2>
 <ul>
 <li>
-<p><strong>5.10.1</strong>&emsp;Inactive Reserve allows a player to stay contracted to a franchise while they are on an extended break without taking up an active roster spot on the team. </p>
+<p><strong>5.10.1</strong>&emsp;Inactive Reserve allows a player to stay contracted to a franchise while they are on an extended break without taking up an active roster spot on the team.</p>
 </li>
 <li>
 <p><strong>5.10.2</strong>&emsp;<a href="./#53-proof-of-player-consent">Proof of player consent</a> must be given when submitting this transaction.</p>
@@ -1121,11 +1413,19 @@
 
 
 
+
+
+
+
+
+
+
                 
               </article>
             </div>
           
           
+<script>var target=document.getElementById(location.hash.slice(1));target&&target.name&&(target.checked=target.name.startsWith("__tabbed_"))</script>
         </div>
         
       </main>
@@ -1153,10 +1453,14 @@
       <div class="md-dialog__inner md-typeset"></div>
     </div>
     
-    <script id="__config" type="application/json">{"base": "..", "features": [], "search": "../assets/javascripts/workers/search.e5c33ebb.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}}</script>
     
     
-      <script src="../assets/javascripts/bundle.51d95adb.min.js"></script>
+      
+      
+      <script id="__config" type="application/json">{"annotate": null, "base": "..", "features": [], "search": "../assets/javascripts/workers/search.2c215733.min.js", "tags": null, "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version": "Select version"}, "version": null}</script>
+    
+    
+      <script src="../assets/javascripts/bundle.79ae519e.min.js"></script>
       
         <script src="../javascripts/extra.js"></script>
       
