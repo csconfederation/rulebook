@@ -82,7 +82,7 @@
 
         - **6.2.6.2.1**&emsp;If a match is rescheduled in this way with only one team giving consent and it is not played before playoffs, it will result in a 0-13 FF for each team. If there is evidence that one team did not work in good faith to play the new match, admins may override this policy.
 
-- **6.2.7**&emsp;For Playoff matches, games beyond the first game have a break period of up to 10 minutes. If one team is not ready at that point, the team that is ready may ping the opposing captain and GM in #match-check-in. Once that ping is made, the unready team has 5 minutes to become ready. If they are still not ready, that game is forfeited by the unready team. A substitution or remake of the game will reset all of these timers.
+- **6.2.7**&emsp;For Playoff matches, games beyond the first game have a break period of up to 10 minutes. If one team is not ready at that point, the team that is ready may ping the opposing captain and GM in the [#⁠match-support](https://discord.com/channels/644377562516029460/644579923972980776) channel. Once that ping is made, the unready team has 5 minutes to become ready. If they are still not ready, that game is forfeited by the unready team. A substitution or remake of the game will reset all of these timers.
 
 &emsp;
 

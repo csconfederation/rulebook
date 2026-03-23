@@ -44,7 +44,7 @@
 
 ## 4.3 Player Contracts
 
-- **4.3.1**&emsp;Each player drafted will be given a 1 season contract with the team that selected them at the end of roster lock.
+- **4.3.1**&emsp;Each player drafted will be given a 1 season contract with the team that selected them.
 
 - **4.3.2**&emsp;Free agents signed by a team will go on a 1 season contract with that team.
 
@@ -94,9 +94,9 @@
 
 ## 4.4 Franchises, Teams, And Rosters
 
-- **4.4.1**&emsp;A team may not have more than five (5) active rostered players during the season except during the period between the draft and the roster lock following the draft.
+- **4.4.1**&emsp;A team may not have more than five (5) active rostered players after the Initial Roster Deadline has passed.
 
-- **4.4.2**&emsp;A team may not have less than five (5) active rostered players during the season.
+- **4.4.2**&emsp;A team may not have less than five (5) active rostered players after the draft.
 
 - **4.4.3**&emsp;Players on IR and substitutes are not counted as active rostered players.
 
@@ -110,7 +110,7 @@
 
 - **4.5.1**&emsp;Each player will be assigned an MMR before the draft. A player's MMR will determine which tier they play in.
 
-- **4.5.2**&emsp;Each tier will have an MMR cap, defined as the maximum total MMR a team may have. A team's total MMR is defined as the sum of each of its active players' MMR. A team may not exceed its tier's MMR cap after the current season's roster lock.
+- **4.5.2**&emsp;Each tier will have an MMR cap, defined as the maximum total MMR a team may have. A team's total MMR is defined as the sum of each of its active players' MMR. A team may not exceed its tier's MMR cap after the current season's Initial Roster Deadline.
 
 - **4.5.3**&emsp;MMR caps will be recalculated at the beginning of every season prior to the draft.
 

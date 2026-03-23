@@ -22,17 +22,19 @@
 
 - **5.1.3**&emsp;Standard Transaction Period (STP): The STP occurs between the Draft Lottery and the Draft. Admins, Numbers Committee, and Transaction Managers will determine the exact dates. During the STP, franchises may Sign, Re-sign, Cut, Promote, and Trade players. Trades can also be made involving current season and next season draft picks.
 
-- **5.1.4**&emsp;Regular Season Transaction Deadline: This deadline occurs 15 minutes before the default start time of the second to last match day of the regular season. Each tier has its own Regular Season Transaction Deadline, based on whenever the second to last match day is scheduled for that tier.
+- **5.1.4**&emsp;Initial Roster Deadline (IRD): The IRD occurs at noon ET the day after the last preseason match day. (See [8.1.1](7_season-overview.md#preseason)). After the IRD, teams can continue making changes to their roster but they must adhere to the roster construction rules in [4.4](4_league-processes.md#44-franchises-teams-and-rosters) and [4.5](4_league-processes.md#45-mmr).
 
-    - **5.1.4.1**&emsp;After this deadline has passed for a given tier, franchises are not allowed to do any transactions that result in permanent roster changes to the team in that tier. Temporary Substitutions and Temporary Promotions are still allowed.
+- **5.1.5**&emsp;Regular Season Transaction Deadline: This deadline occurs 15 minutes before the default start time of the second to last match day of the regular season. Each tier has its own Regular Season Transaction Deadline, based on whenever the second to last match day is scheduled for that tier.
 
-    - **5.1.4.2**&emsp;Bypassing the transaction deadline to cut and sign another player is allowed under extreme circumstances based on approval by TM head/Admins. You may only sign a player under this rule if that FA was an FA not on waivers at the time of deadline. The cut player may not play the rest of the season. This is to be used if a player has an extended unavailability or extended lack of communication. Evidence of this must be given to the TM head/Admins.
+    - **5.1.5.1**&emsp;After this deadline has passed for a given tier, franchises are not allowed to do any transactions that result in permanent roster changes to the team in that tier. Temporary Substitutions and Temporary Promotions are still allowed.
 
-- **5.1.5**&emsp;Pre-Match Transaction Deadline: Transactions must be submitted at least 15 minutes before the match start time. This ensures TMs have enough time to process the transactions prior to the match.
+    - **5.1.5.2**&emsp;Bypassing the transaction deadline to cut and sign another player is allowed under extreme circumstances based on approval by TM head/Admins. You may only sign a player under this rule if that FA was an FA not on waivers at the time of deadline. The cut player may not play the rest of the season. This is to be used if a player has an extended unavailability or extended lack of communication. Evidence of this must be given to the TM head/Admins.
 
-    - **5.1.5.1**&emsp;Transaction requests submitted after the Pre-Match Transaction Deadline will be processed after the match. Late Temporary Substitution or Temporary Promotion transactions will be canceled.
+- **5.1.6**&emsp;Pre-Match Transaction Deadline: Transactions must be submitted at least 15 minutes before the match start time. This ensures TMs have enough time to process the transactions prior to the match.
 
-        - **5.1.5.1.1**&emsp;For a team playing multiple matches in a day, a Temporary Substitution transaction that is submitted too late for the first match will still be processed for the later matches.
+    - **5.1.6.1**&emsp;Transaction requests submitted after the Pre-Match Transaction Deadline will be processed after the match. Late Temporary Substitution or Temporary Promotion transactions will be canceled.
+
+        - **5.1.6.1.1**&emsp;For a team playing multiple matches in a day, a Temporary Substitution transaction that is submitted too late for the first match will still be processed for the later matches.
 
 &emsp;
 
@@ -128,9 +130,9 @@
 
 - **5.6.5**&emsp;Players that are Cut may be placed on waivers (See [section 5.12](5_transactions.md#51-general-transactions) for more details on Waivers):
 
-    - **5.6.5.1**&emsp;Before Roster Lock in Preseason, Cut players will be put on waivers if they went through the draft as a signed player (not DE or FA).
+    - **5.6.5.1**&emsp;Before the Initial Roster Deadline in Preseason, Cut players will be put on waivers if they went through the draft as a signed player (not DE or FA).
 
-    - **5.6.5.2**&emsp;After Roster Lock in Preseason, Cut players will be put on waivers.
+    - **5.6.5.2**&emsp;After the Initial Roster Deadline in Preseason, Cut players will be put on waivers.
 
 &emsp;
 
@@ -182,7 +184,7 @@
 
 - **5.9.2**&emsp;[Proof of player consent](5_transactions.md#53-proof-of-player-consent) must be given when Promoting or Demoting a player.
 
-- **5.9.3**&emsp;If the promotion occurs after Roster Lock in Preseason, it must be accompanied by transactions that keep all affected teams at 5 players. For example, if a Challenger player is promoted up to their franchise's Elite team, the Challenger team can Sign a Free Agent and the Elite team can Cut another rostered player, making sure that both teams end up with 5 active players on the roster.
+- **5.9.3**&emsp;If the promotion occurs after the Initial Roster Deadline in Preseason, it must be accompanied by transactions that keep all affected teams at 5 players. For example, if a Challenger player is promoted up to their franchise's Elite team, the Challenger team can Sign a Free Agent and the Elite team can Cut another rostered player, making sure that both teams end up with 5 active players on the roster.
 
 - **5.9.4**&emsp;Players promoted pre-draft may not be demoted by the franchise that drafts them. The franchise may Cut the player, to which the following rules apply:
 
@@ -230,7 +232,7 @@
 
 ## 5.11 Trade
 
-- **5.11.1**&emsp;A Trade is an exchange of assets (players and draft picks) between two or more franchises.
+- **5.11.1**&emsp;A Trade is an exchange of assets (players and draft picks) between two franchises.
 
 - **5.11.2**&emsp;Trades must be agreed upon and submitted by a GM or AGM from *every* franchise involved. Proof of agreement must be submitted to TMs.
 

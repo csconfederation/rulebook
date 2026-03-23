@@ -62,7 +62,7 @@
 
     - **3.4.1.2**&emsp;Players should not visit, watch, or participate in any streams or stream chats involving their game where the video and POV may show information not accessible to your team while the match is ongoing.
 
-- **3.4.2**&emsp;Accusations of cheating must be made either through the ticket system in #roles-and-tickets, or through a DM with an admin. Cheating accusations are not to be made in public channels, and may lead to a punishment for the offender.
+- **3.4.2**&emsp;Accusations of cheating must be made through the ticket system in the [#⁠create-a-ticket](https://discord.com/channels/644377562516029460/1431110723949297858) channel. Cheating accusations are not to be made in public channels, and may lead to a punishment for the offender.
 
 - **3.4.3**&emsp;Upon receiving a cheating accusation, the admins will assemble a committee to review the player's gameplay.
 
