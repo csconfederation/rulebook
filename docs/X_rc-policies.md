@@ -16,17 +16,17 @@ The following policies are self-administered guidelines that help facilitate the
 
 - **Proposal 7_7  -  RC Behavior Guidelines**&emsp;For the purposes of future elections and governing thresholds for revoking membership, RC members will be treated as staff internally.
 
-- **Proposal 9_6  -  Player Rep Term Length**&emsp;Player reps will serve for two season terms. In some cases (in order to distribute the spots up for election) certain player reps (based on placing lower in the voting than the 2 season term spots) will serve one season terms. This breakdown will be dictated before candidates are known based on RC needs.
+- **Proposal 19_1  -  Player Rep Term Length**&emsp;Player reps will serve for one season terms.
 
-- **Proposal 9_7  -  Player Rep Amounts**&emsp;There will be up to 4 player reps at a given time based on candidate amounts. In a given election/offseason, the number of candidates divided by two and rounded down will denote the maximum number of spots offered to candidates. This number will be further capped at 4 or the number of vacant player rep spots (including those at the end of their term), whichever is lower.
+- **Proposal 19_2  -  Player Rep Amounts**&emsp;The number of player rep positions available in a given election will be determined by the number of candidates running. Every two candidates will add another player rep position for that season, up to eight candidates for a maximum of four player reps.
 
-- **Proposal 15_1  -  Player Rep**&emsp;Players will be represented on RC by the Player Reps
-    - Any non-admin, non-GM, non-Committee Head that has played in at least one season may run for the position.
-    - Any non-admin, non-GM, non-Committee Head that played in the previous CSC season may vote in the election.
+- **Proposal 19_3  -  Player Rep**&emsp;Players will be represented on RC by the Player Reps
+    - Any non-admin, non-(A)GM, non-Committee Head that has played in at least one season may run for the position.
+    - Any non-admin, non-(A)GM, non-Committee Head that played in the previous CSC season may vote in the election.
 
-- **Proposal 15_2  -  GM Rep**&emsp;GMs will be represented on RC by the GM Rep.
-    - Any GM may run for the position and vote in the election.
-    - The top voted candidate in the election will serve a one season term as the GM Rep.
+- **Proposal 19_4  -  GM Rep**&emsp;GMs will be represented on RC by two GM Reps.
+    - Any GM or AGM may run for the positions and vote in the election.
+    - The top two voted candidates in the election will serve one season terms as the GM Reps.
 
 ## Voting
 
