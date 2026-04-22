@@ -1,6 +1,6 @@
 const domains = [
-    "https://csconfederation.com",
-    "https://www.csconfederation.com",
+    "https://playcsc.com",
+    "https://www.playcsc.com",
     "http://localhost:3000"
   ]
 
