@@ -24,7 +24,7 @@
 
 - **7.1.6**&emsp;Players signed to a team at the transaction deadline are referred to as keepers and will be assigned a round in the draft based on their MMR.
 
-    - **7.1.6.1**&emsp;Each team is limited to a maximum of 3 keeper picks in the draft. For these purposes, a keeper pick is any player that occupies a keeper slot in the draft board; players retained from the previous season as well as those promoted, demoted, or picked up as Free Agents during the offseason transaction period are included. Teams must be in compliance with this limit by no later than 48 hours before the end of offseason transactions.
+    - **7.1.6.1**&emsp;Each team is limited to a maximum of 2 keeper picks in the draft. For these purposes, a keeper pick is any player that occupies a keeper slot in the draft board; players retained from the previous season as well as those promoted, demoted, or picked up as Free Agents during the offseason transaction period are included. Teams must be in compliance with this limit by no later than 48 hours before the end of offseason transactions.
 
     - **7.1.6.2**&emsp;Keepers must be picked prior to the 6th round or prior to the last full round of the draft, whichever is later.
 
