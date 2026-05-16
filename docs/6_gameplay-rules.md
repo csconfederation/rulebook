@@ -60,9 +60,21 @@
 
 - **6.2.1**&emsp;CSC uses its own game servers for matches.
 
-    - **6.2.1.1**&emsp;Server locations are Dallas and Chicago. The home team's preference, and in the case of playoffs, the higher seed's preference of server dictates which of these locations are chosen for the entire series. This preference should be communicated to the tech head. Any preference changes will take at least one match day (that the given team plays a complete game in) to go into effect unless at the start of the season. This preference is not guaranteed if there are server issues.
+    - **6.2.1.1**&emsp;Available server locations are as follows:
 
-    - **6.2.1.2**&emsp;If a player has connection issues prior to all players being ready, there is an extra server available for use. This will be on a first come, first serve basis, and will be located in Dallas.
+        - Chicago
+
+        - Dallas
+
+        - Seattle
+
+    - **6.2.1.2**&emsp;The following pick-ban process will determine the server location:
+
+        - Away Team removes 1 location
+
+        - Home Team removes 1 location
+
+    - **6.2.1.3**&emsp;Final server location is not guaranteed if there are server or connection issues. If a player has connection issues prior to all players being ready, the captain of the affected Team can type in the [#⁠match-support](https://discord.com/channels/644377562516029460/644579923972980776) channel and request an alternative server location. The change in server location will be up to Admin discretion.
 
 - **6.2.2**&emsp;The maps for regular-season games are decided by a veto vote. The captains of each team alternate map vetoes such that the Away Team bans first and the Home Team chooses between the final two maps. Starting sides are decided by the Away Team.
 
