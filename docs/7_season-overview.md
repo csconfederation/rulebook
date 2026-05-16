@@ -120,7 +120,7 @@
 
 - **10.1.2**&emsp;Each tier will play in their own separate playoffs.
 
-- **10.1.3**&emsp;During the postseason, the higher seed is the home team, and will decide whether they want to veto first or second. If there is no higher seed, then the teams will be tiebroken according to tiebreaker rules [9.1.3](7_season-overview.md#regular-season) but ignoring conference record.
+- **10.1.3**&emsp;During the postseason, the higher seed is the Home Team.
 
     - **10.1.3.1**&emsp;Veto rules are outlined above in [Rule 6.2.3](6_gameplay-rules.md#62-game-servers).
 
