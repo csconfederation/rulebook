@@ -60,29 +60,65 @@
 
 - **6.2.1**&emsp;CSC uses its own game servers for matches.
 
-    - **6.2.1.1**&emsp;Server locations are Dallas and Chicago. The home team's preference, and in the case of playoffs, the higher seed's preference of server dictates which of these locations are chosen for the entire series. This preference should be communicated to the tech head. Any preference changes will take at least one match day (that the given team plays a complete game in) to go into effect unless at the start of the season. This preference is not guaranteed if there are server issues.
+    - **6.2.1.1**&emsp;Available server locations are as follows:
 
-    - **6.2.1.2**&emsp;If a player has connection issues prior to all players being ready, there is an extra server available for use. This will be on a first come, first serve basis, and will be located in Dallas.
+        - Chicago
 
-- **6.2.2**&emsp;The maps for regular-season games are decided by a veto vote. The captains of each team alternate map vetoes such that the Away Team bans first and the Home Team chooses between the final two maps. Starting sides are decided by the Away Team.
+        - Dallas
 
-- **6.2.3**&emsp;The maps for any best-of-1 playoff matches follow the regular-season map veto order, with the higher-seeded team choosing whether to veto first or second. Starting sides are decided by the team to veto first.
+        - Seattle
 
-- **6.2.4**&emsp;For best-of-3 games, the higher-seeded team will choose whether they veto first or second. The order is as follows: veto-veto, pick-pick, veto-veto, with one map remaining. Each team selects their starting side on their opponent’s map pick. Starting sides for map 3 are decided by the team to veto first.
+    - **6.2.1.2**&emsp;The following pick-ban process will determine the server location:
 
-- **6.2.5**&emsp;In the case of a server restart, the outcomes of any previous map vetoes, knife rounds, or side selections must be replicated, unless the server was restarted to correct an unintended selection. Both teams must consent to any change unless it is a mandated outcome (e.g. team that should get side choice in playoffs winning knife round).
+        - Away Team removes 1 location
 
-- **6.2.6**&emsp;Teams MUST join/start their match server at game time, unless otherwise agreed upon for another time by the respective GMs and they have notified the League Staff in their respective transaction channels.
+        - Home Team removes 1 location
 
-    - **6.2.6.1**&emsp;Each team in a match has 10 cumulative minutes to complete their bans. And each has 5 minutes to ready up in the server once the first person has connected or 15 minutes past the original game time (whichever is later). If either of these amounts are exceeded (ban time or server joining) the game may be forfeit. The offended team shall report this immediately in match support by pinging the opposing captain, or if absent, the opposing team's players. This must occur before the end of freeze time of the round after the first pistol and with a (free) tech pause. If the forfeit is then contested the game shall be played out until logs can determine forfeit accuracy.
+    - **6.2.1.3**&emsp;Final server location is not guaranteed if there are server or connection issues. If a player has connection issues prior to all players being ready, the captain of the affected Team can type in the [#⁠match-support](https://discord.com/channels/644377562516029460/644579923972980776) channel and request an alternative server location. The change in server location will be up to Admin discretion.
 
-        - **6.2.6.1.1**&emsp;Delays caused by staff conducting league business or technical issues that affect a majority of the players in the game do not count towards this time.
+- **6.2.2**&emsp;The following pick-ban process will determine the map and starting side for best-of-1 matches:
 
-    - **6.2.6.2**&emsp;If a preceding league match or league-wide tech issues interfere with the start of the game for more than 15 minutes, a single team may require the match to be rescheduled (without a given new time) without the consent of the other team. Both teams are expected to work in good faith to establish a new time to play. If rescheduled in this way, they may play a regular season game more than a week past the original date. Other rescheduling rules shall still be followed including limitations near the postseason.
+    - Home Team removes 2 maps
 
-        - **6.2.6.2.1**&emsp;If a match is rescheduled in this way with only one team giving consent and it is not played before playoffs, it will result in a 0-13 FF for each team. If there is evidence that one team did not work in good faith to play the new match, admins may override this policy.
+    - Away Team removes 3 maps
 
-- **6.2.7**&emsp;For Playoff matches, games beyond the first game have a break period of up to 10 minutes. If one team is not ready at that point, the team that is ready may ping the opposing captain and GM in the [#⁠match-support](https://discord.com/channels/644377562516029460/644579923972980776) channel. Once that ping is made, the unready team has 5 minutes to become ready. If they are still not ready, that game is forfeited by the unready team. A substitution or remake of the game will reset all of these timers.
+    - Home Team removes 1 map
+
+    - Away Team chooses starting side
+
+- **6.2.3**&emsp;The following pick-ban process will determine the maps and starting sides for best-of-3 matches:
+
+    - Home Team removes 1 map
+
+    - Away Team removes 1 map
+
+    - Home Team picks map 1
+
+    - Away Team chooses starting side on map 1
+
+    - Away Team picks map 2
+
+    - Home Team chooses starting side on map 2
+
+    - Away Team removes 1 map
+
+    - Home Team removes 1 map
+
+    - Away Team chooses starting side on map 3
+
+- **6.2.4**&emsp;In the case of a server restart, the outcomes of any previous map vetoes, knife rounds, or side selections must be replicated, unless the server was restarted to correct an unintended selection. Both teams must consent to any change unless it is a mandated outcome (e.g. team that should get side choice in playoffs winning knife round).
+
+- **6.2.5**&emsp;Teams MUST join/start their match server at game time, unless otherwise agreed upon for another time by the respective GMs and they have notified the League Staff in their respective transaction channels.
+
+    - **6.2.5.1**&emsp;Each team in a match has 10 cumulative minutes to complete their bans. And each has 5 minutes to ready up in the server once the first person has connected or 15 minutes past the original game time (whichever is later). If either of these amounts are exceeded (ban time or server joining) the game may be forfeit. The offended team shall report this immediately in match support by pinging the opposing captain, or if absent, the opposing team's players. This must occur before the end of freeze time of the round after the first pistol and with a (free) tech pause. If the forfeit is then contested the game shall be played out until logs can determine forfeit accuracy.
+
+        - **6.2.5.1.1**&emsp;Delays caused by staff conducting league business or technical issues that affect a majority of the players in the game do not count towards this time.
+
+    - **6.2.5.2**&emsp;If a preceding league match or league-wide tech issues interfere with the start of the game for more than 15 minutes, a single team may require the match to be rescheduled (without a given new time) without the consent of the other team. Both teams are expected to work in good faith to establish a new time to play. If rescheduled in this way, they may play a regular season game more than a week past the original date. Other rescheduling rules shall still be followed including limitations near the postseason.
+
+        - **6.2.5.2.1**&emsp;If a match is rescheduled in this way with only one team giving consent and it is not played before playoffs, it will result in a 0-13 FF for each team. If there is evidence that one team did not work in good faith to play the new match, admins may override this policy.
+
+- **6.2.6**&emsp;For Playoff matches, games beyond the first game have a break period of up to 10 minutes. If one team is not ready at that point, the team that is ready may ping the opposing captain and GM in the [#⁠match-support](https://discord.com/channels/644377562516029460/644579923972980776) channel. Once that ping is made, the unready team has 5 minutes to become ready. If they are still not ready, that game is forfeited by the unready team. A substitution or remake of the game will reset all of these timers.
 
 &emsp;
 
