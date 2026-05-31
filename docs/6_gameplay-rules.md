@@ -1,4 +1,4 @@
-# Gameplay Rules
+# 6 Gameplay Rules
 
 ---
 

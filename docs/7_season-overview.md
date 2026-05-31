@@ -2,7 +2,7 @@
 
 ---
 
-## Before Preseason
+## 7 Before Preseason
 
 ### 7.1 The Draft
 
@@ -64,7 +64,7 @@
 
 &emsp;
 
-## Preseason
+## 8 Preseason
 
 - **8.1.1**&emsp;Preseason lasts from the season’s draft until the official Initial Roster Deadline. In this time, there will be 2 cut days.
 
@@ -76,7 +76,7 @@
 
 &emsp;
 
-## Regular Season
+## 9 Regular Season
 
 - **9.1.1**&emsp;During the season, franchises are sorted into conferences randomly to determine who they play, when they play them, and where they will be placed in the playoffs bracket upon qualification.
 
@@ -112,7 +112,7 @@
 
 &emsp;
 
-## Playoffs and Beyond
+## 10 Playoffs and Beyond
 
 ### 10.1 General Playoff Info
 
