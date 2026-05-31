@@ -128,11 +128,7 @@
 
     - **5.6.4.3**&emsp;Players who refuse to play for their team may be cut and converted to PFA status as detailed in [rule 4.3.6.1](4_league-processes.md#43-player-contracts).
 
-- **5.6.5**&emsp;Players that are Cut may be placed on waivers (See [section 5.12](5_transactions.md#51-general-transactions) for more details on Waivers):
-
-    - **5.6.5.1**&emsp;Before the Initial Roster Deadline in Preseason, Cut players will be put on waivers if they went through the draft as a signed player (not DE or FA).
-
-    - **5.6.5.2**&emsp;After the Initial Roster Deadline in Preseason, Cut players will be put on waivers.
+- **5.6.5**&emsp;After the Initial Roster Deadline in Preseason, Cut players will be put on Waivers (See [section 5.12](5_transactions.md#51-general-transactions) for more details on Waivers).
 
 &emsp;
 
@@ -272,7 +268,7 @@
 
 ## 5.12 Waivers and Waiver Claims
 
-- **5.12.1**&emsp;During the Regular Season, and sometimes during the Preseason (see [rule 5.6.5.1](5_transactions.md#56-cut)), Cut players will be placed on waivers. While on Waivers, the player cannot Sign with a team, but they can still be a Temporary Substitute. Teams can submit a Waiver Claim for the player, where the highest priority team (see [5.12.4.2](5_transactions.md#512-waivers-and-waiver-claims)) will win the Waiver Claim and add the player to their roster. If the player clears Waivers without being claimed by any team, they will have no restrictions and be able to Sign with any team if they choose.
+- **5.12.1**&emsp;During the Regular Season, Cut players will be placed on Waivers. While on Waivers, the player cannot Sign with a team, but they can still be a Temporary Substitute. Teams can submit a Waiver Claim for the player, where the highest priority team (see [5.12.4.2](5_transactions.md#512-waivers-and-waiver-claims)) will win the Waiver Claim and add the player to their roster. If the player clears Waivers without being claimed by any team, they will have no restrictions and be able to Sign with any team if they choose.
 
 - **5.12.2**&emsp;Waiver Claims do not require player consent, although it is strongly recommended the GM or an AGM discusses a potential waiver claim beforehand with the player.
 
