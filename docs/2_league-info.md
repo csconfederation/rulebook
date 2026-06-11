@@ -1,4 +1,4 @@
-# League Info
+# 2 League Info
 
 ---
 
@@ -172,10 +172,10 @@
 
 &emsp;
 
-## 2.8 Clarifications
+## 2.7 Clarifications
 
-- **2.8.1**&emsp;The rules here and elsewhere are ultimately defined and interpreted by the Admins of CSC. The Admins may fill in for any other role for decision-making as necessary.
+- **2.7.1**&emsp;The rules here and elsewhere are ultimately defined and interpreted by the Admins of CSC. The Admins may fill in for any other role for decision-making as necessary.
 
-- **2.8.2**&emsp;The phrase “Admins and Staff” or similar is frequently used. It should be noted that Admins are included in Staff (all Admins are Staff), but not the opposite (not all Staff are Admins). Admins and Staff is, therefore, slightly redundant (though it does indicate where decisions or actions are more likely to involve Admins versus just non-Admin Staff).
+- **2.7.2**&emsp;The phrase “Admins and Staff” or similar is frequently used. It should be noted that Admins are included in Staff (all Admins are Staff), but not the opposite (not all Staff are Admins). Admins and Staff is, therefore, slightly redundant (though it does indicate where decisions or actions are more likely to involve Admins versus just non-Admin Staff).
 
 ---

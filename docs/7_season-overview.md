@@ -2,7 +2,7 @@
 
 ---
 
-## Before Preseason
+## 7 Before Preseason
 
 ### 7.1 The Draft
 
@@ -38,7 +38,7 @@
 
 - **7.1.9**&emsp;If a franchise picks a player who is not listed as available on the official draft board, the draft will be paused upon discovery of the error, and the violating franchise must redraft their invalid pick from the remaining pool of DEs. This will not invalidate any picks made after the mistake and prior to discovery of the invalid draft choice.
 
-- **7.1.10**&emsp;GMs will draft more than five players to ensure all draft eligible players are selected. GMs must reduce their roster to the legal size as per [8.1.1](#preseason). Players who are released will enter Free Agency as per [5.5.2](5_transactions.md#56-cut)
+- **7.1.10**&emsp;GMs will draft more than five players to ensure all draft eligible players are selected. GMs must reduce their roster to the legal size as per [8.1.1](#8-preseason). Players who are released will enter Free Agency as per [5.5.2](5_transactions.md#56-cut)
 
 &emsp;
 
@@ -64,7 +64,7 @@
 
 &emsp;
 
-## Preseason
+## 8 Preseason
 
 - **8.1.1**&emsp;Preseason lasts from the season’s draft until the official Initial Roster Deadline. In this time, there will be 2 cut days.
 
@@ -76,7 +76,7 @@
 
 &emsp;
 
-## Regular Season
+## 9 Regular Season
 
 - **9.1.1**&emsp;During the season, franchises are sorted into conferences randomly to determine who they play, when they play them, and where they will be placed in the playoffs bracket upon qualification.
 
@@ -112,7 +112,7 @@
 
 &emsp;
 
-## Playoffs and Beyond
+## 10 Playoffs and Beyond
 
 ### 10.1 General Playoff Info
 
