@@ -284,7 +284,7 @@
 
         - **5.12.4.2.2**&emsp;After two regular season match days, waiver priority will be based on the inverse of tier standings, as updated from the most recent match day prior to the waiver starting.
 
-        - **5.12.4.2.3**&emsp;When a team signs a player (including other waiver claims), they will move to last in waiver priority for their tier until two match days have passed (Doubleheaders count as two Match Days for the purposes of this rule).
+        - **5.12.4.2.3**&emsp;When a team signs a player via a waiver claim, they will move to last in waiver priority for their tier until two match days have passed (Doubleheaders count as two Match Days for the purposes of this rule).
 
     - **5.12.4.3**&emsp;A franchise that claims a player off waivers cannot promote that player until two match days have passed.
 
