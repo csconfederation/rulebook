@@ -46,4 +46,13 @@ As of right now there are six skill tiers within the league: Premier, Elite, Cha
 - **1.3.3**&emsp;For every tier except Premier, regular season matches are best of 1 and start at 10pm ET on Tuesdays and Thursdays, with a scrim at 9pm ET. Playoff matches are best of 3 and start at 9pm ET on Tuesdays and Thursdays.
 - **1.3.4**&emsp;For Premier, a double header is played starting at 9pm ET on Mondays. Playoff matches are best of 3 and start at 9pm ET on Mondays.
 
+&emsp;
+
+## 1.4 FA Colo
+
+- **1.4.1**&emsp;FA Colo is an in-season, best-of-one pickup mode that uses the same queue, teams, map pool, and match flow as Combines. It is separate from the preseason Combine program.
+- **1.4.2**&emsp;Unsigned Draft Eligible and Free Agent players may join FA Colo while the mode is open. Signed players may join only by explicitly opting in each time they enter the queue. Other player statuses are subject to the eligibility rules enforced by league administration.
+- **1.4.3**&emsp;FA Colo statistics are public and appear separately from Combine, regular-season, and playoff statistics on player profiles.
+- **1.4.4**&emsp;FA Colo games and nights do not count toward preseason Combine game, Combine night, or draft-eligibility requirements.
+
 ---

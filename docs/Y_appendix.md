@@ -26,11 +26,12 @@ This is a WIP - info not binding.
 - **Admin** - Admins are the elected leaders of CSC. The Admins are the ultimate decision makers on how the league is run.
 - **Assistant General Manager** - Assistant General Managers are appointed by the General Manager of a Franchise to assist the General Manager with their duties.
 - **Captain** - Each Team selects a player to be Captain. Captains perform whatever duties are assigned by their General Manager within their team.
-- **Combines** - CSC Combines are special pickup games played on CSC servers before the draft. Player stats in Combines are tracked to establish players’ CSC MMR and allow GMs to scout players.
+- **Combines** - CSC Combines are preseason pickup games played on CSC servers before the draft. Player stats in Combines are tracked to establish players’ CSC MMR and allow GMs to scout players. FA Colo uses a combine-shaped match flow during the season but remains a separate mode and does not satisfy preseason Combine eligibility requirements.
 - **Contract** - A Contract commits a player to a specific Franchise and counts the player’s MMR towards their Team’s maximum allowed MMR
 - **Draft** - The Draft is how Rookies get a chance to play for a Team. Each Tier has its own Draft that runs until all players are placed with a Team.
 - **Franchise** - A Franchise consists of all Teams managed by the same GM.
 - **Free Agent/Permanent Free Agent** - A Free Agent is a player not on Contract with a Team. They can fill in as a substitute for a Team or go on Contract with a Team to fill their Roster. A Permanent Free Agent can substitute for a Team but cannot fill a Roster slot.
+- **FA Colo** - An in-season, best-of-one pickup mode for eligible unsigned players and signed players who opt in for that queue entry. Its public player statistics are tracked separately from Combines and team matches.
 - **Game** - A Game consists of up to 30 rounds of 5 vs 5 Counter Strike played with the “Competitive” rule set, plus any overtime necessary to break a tie.
 - **General Manager** - A General Manager leads a Franchise in CSC. They create Rosters for each of their allocated Teams and manage the players they Contract to fill those Rosters.
 - **Inactive Reserve** - When a player is unable to play for an extended period of time, their GM may elect to place them in Inactive Reserve status.
