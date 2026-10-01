@@ -38,7 +38,7 @@
 
 - **7.1.9**&emsp;If a franchise picks a player who is not listed as available on the official draft board, the draft will be paused upon discovery of the error, and the violating franchise must redraft their invalid pick from the remaining pool of DEs. This will not invalidate any picks made after the mistake and prior to discovery of the invalid draft choice.
 
-- **7.1.10**&emsp;GMs will draft more than five players to ensure all draft eligible players are selected. GMs must reduce their roster to the legal size as per [8.1.1](#8-preseason). Players who are released will enter Free Agency as per [5.5.2](5_transactions.md#56-cut)
+- **7.1.10**&emsp;GMs will draft more than five players to ensure all draft eligible players are selected. GMs must reduce their roster to the legal size as per [8.1.2](#8-preseason). Players who are released will enter Free Agency as per [5.5.2](5_transactions.md#56-cut)
 
 &emsp;
 
@@ -66,13 +66,13 @@
 
 ## 8 Preseason
 
-- **8.1.1**&emsp;Preseason lasts from the season’s draft until the official Initial Roster Deadline. In this time, there will be 2 cut days.
+- **8.1.1**&emsp;Preseason lasts from the season’s draft until the start of the first regular season match.
 
-    - **8.1.1.1**&emsp;The first cut time is the day after the second-to-last preseason match day at 11:59am ET. Teams must be at a maximum of 6 rostered players.
+- **8.1.2**&emsp;The Initial Roster Deadline (IRD) occurs the day after the last preseason match day at 11:59pm ET. Teams must be at a maximum of 5 active rostered players at this point.
 
-    - **8.1.1.2**&emsp;The second cut time is the day after the last preseason match day at 11:59am ET. Teams must be at a maximum of 5 rostered players.
+    - **8.1.2.1**&emsp;If a team exceeds 5 active rostered players after the IRD, players will be cut in descending MMR order until the team has 5 players.
 
-- **8.1.2**&emsp;A player who was drafted must play in a preseason match (a scrim doesn't count) before being cut in the preseason. A player who is unresponsive, unwilling, or unavailable at game time is excluded from this requirement. Evidence of this should be shown in a GM’s transaction channel.
+- **8.1.3**&emsp;A player who was drafted must play in a preseason match (a scrim doesn't count) before being cut in the preseason. A player who is unresponsive, unwilling, or unavailable at game time is excluded from this requirement. Evidence of this should be shown in a GM’s transaction channel.
 
 &emsp;
 
@@ -103,6 +103,7 @@
     - In-Conference Match Win Percentage (used only if all tied teams are from the same conference)
     - Overall Round Win Percentage (rounded to the nearest percent)
     - Strength of Schedule (average of opponents' match win percentage, weighted by the number of times the team faced each opponent, rounded to the nearest percent)
+    - (A)GM Rush 3v3 (optional)
     - (A)GM 1v1 (optional)
     - Coin flip
 
