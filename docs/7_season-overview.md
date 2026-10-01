@@ -103,6 +103,7 @@
     - In-Conference Match Win Percentage (used only if all tied teams are from the same conference)
     - Overall Round Win Percentage (rounded to the nearest percent)
     - Strength of Schedule (average of opponents' match win percentage, weighted by the number of times the team faced each opponent, rounded to the nearest percent)
+    - (A)GM Rush 3v3 (optional)
     - (A)GM 1v1 (optional)
     - Coin flip
 
