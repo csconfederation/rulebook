@@ -50,7 +50,7 @@
 
     - **2.3.5.4**&emsp;Names must be appropriate for CSC and may be denied if they contain slurs, NSFW language, or other content that does not comply with the Behavior Guidelines. Admins and mods may require players to change their name if it does not follow the Behavior Guidelines.
 
-    - **2.3.5.5**&emsp;Players may change their name between seasons. Once a player has played a match (including combines), they can no longer change their name that season.
+    - **2.3.5.5**&emsp;Players may change their name once between seasons. Name changes close at draft lottery.
 
 &emsp;
 
