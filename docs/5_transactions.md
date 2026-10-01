@@ -22,7 +22,7 @@
 
 - **5.1.3**&emsp;Standard Transaction Period (STP): The STP occurs between the Draft Lottery and the Draft. Admins, Numbers Committee, and Transaction Managers will determine the exact dates. During the STP, franchises may Sign, Re-sign, Cut, Promote, and Trade players. Trades can also be made involving current season and next season draft picks.
 
-- **5.1.4**&emsp;Initial Roster Deadline (IRD): The IRD occurs at noon ET the day after the last preseason match day. (See [8.1.1](7_season-overview.md#8-preseason)). After the IRD, teams can continue making changes to their roster but they must adhere to the roster construction rules in [4.4](4_league-processes.md#44-franchises-teams-and-rosters) and [4.5](4_league-processes.md#45-mmr).
+- **5.1.4**&emsp;Initial Roster Deadline (IRD): The IRD occurs the day after the last preseason match day at 11:59pm ET. (See [8.1.2](7_season-overview.md#8-preseason)). After the IRD, teams can continue making changes to their roster but they must adhere to the roster construction rules in [4.4](4_league-processes.md#44-franchises-teams-and-rosters) and [4.5](4_league-processes.md#45-mmr).
 
 - **5.1.5**&emsp;Regular Season Transaction Deadline: This deadline occurs 15 minutes before the default start time of the second to last match day of the regular season. Each tier has its own Regular Season Transaction Deadline, based on whenever the second to last match day is scheduled for that tier.
 
