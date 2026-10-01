@@ -42,7 +42,7 @@ The following policies are self-administered guidelines that help facilitate the
 
 ## Workflow
 
-- **Proposal 18_1 - Rules Committee Coordinator**&emsp;Admins will nominate a willing volunteer to manage the day to day maintenance and function of RC. RC will vote to approve this nomination with a simple majority threshold. The purpose of this position is to have a designated "leader" to ensure that RC is functioning in a timely and consistent manner. The RC Coordinator cannot be a GM or Committee Head. This role will not hold voting power.
+- **Proposal 21_1 - Rules Committee Coordinator**&emsp;Rules Committee will designate a member of RC to act as coordinator. RC coordinator is responsible for opening forums, fostering discussion, sending proposals to vote, and posting official updates to the community, although any member of RC can do these things.
 
 - **Proposal 9_4  -  RC Voting Logs**&emsp;Each rule change will also have the exact members and their votes recorded and posted publicly.
 
