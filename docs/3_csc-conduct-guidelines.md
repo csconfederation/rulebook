@@ -100,6 +100,7 @@
         - Numbers Committee
         - Rules Committee
         - Committee Head
+        - Match Integrity Committee
 
 - **3.5.3**&emsp;Staff bans may be appealed immediately. After an unsuccessful appeal, members must wait 6 months following the conclusion of the appeal to initiate another one.
 
