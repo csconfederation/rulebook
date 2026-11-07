@@ -42,9 +42,17 @@
 
 - **6.1.6**&emsp;Timeouts
 
-    - **6.1.6.1**&emsp;Per map, each team can use 4 tactical timeouts of 30 seconds each; tactical timeouts can be used for any reason. Each team may also use up to two technical pauses totaling ten minutes for emergencies, tech issues, or any other non-tactical reason.
+    - **6.1.6.1**&emsp;Each team receives the following tactical timeouts per map, each lasting 30 seconds:
+        - Regulation: three tactical timeouts.
+        - Overtime: one tactical timeout per overtime period (six rounds).
 
-    - **6.1.6.2**&emsp;Misuse of timeouts may result in a retroactive forfeit at admin discretion. This includes using technical pauses for tactical purposes and exceeding the total duration/total use limits of their technical pauses. In order to report the offending team, the opposing team must first tell them to unpause in match chat; this serves as the former's only warning. If there is continued misuse or the warning is not quickly heeded, the incident may be reported through a general (mod/admin) ticket. The game shall continue and be played out if possible. A vote of at least all admins but one will result in a retroactive forfeit.
+        Unused tactical timeouts do not carry over into overtime or from one overtime period to the next. Tactical timeouts may be used for any reason.
+
+    - **6.1.6.2**&emsp;Each team may also use up to five technical pauses per map, totaling no more than ten minutes, for emergencies, technical issues, or any other non-tactical reason. Match support may issue a technical pause that does not count against either team's allotment.
+
+    - **6.1.6.3**&emsp;If a team exceeds its ten-minute technical pause allowance, the opposing team may issue the unpause command (.unpause in chat) to end the pause unilaterally.
+
+    - **6.1.6.4**&emsp;Misuse of timeouts may result in a retroactive forfeit at admin discretion. This includes using technical pauses for tactical purposes. A vote of at least all admins but one will result in a retroactive forfeit.
 
 - **6.1.7**&emsp;Live Coaching
 
@@ -149,7 +157,7 @@
 
 - **6.4.1**&emsp;If a player disconnects mid-game, they are allowed to join back as soon as possible.
 
-    - **6.4.1.1**&emsp;Technical pauses, as outlined in Rule 6.1.3.2, are allowed here to give the disconnected player reasonable time to reconnect.
+    - **6.4.1.1**&emsp;Technical pauses, as outlined in Rule 6.1.6.2, may be used to give the disconnected player reasonable time to reconnect.
 
 - **6.4.2**&emsp;In the event that someone has technical issues before their team has taken or dealt any damage in a round the following process may/shall be followed for all regular season and post-season matches:
     - Team with issue puts .stop in chat midround, prior to any damage taken or dealt by the requesting team
